@@ -1,0 +1,26 @@
+-- Promedio de duracion de un Run (en segundos) por algoritmo
+SELECT
+	COALESCE(M.ALGORITMO, '(sin modelo)') AS ALGORITMO,
+	ROUND(
+		AVG(
+			EXTRACT(
+				EPOCH
+				FROM
+					(R.TIEMPO_FIN - R.TIEMPO_INICIO)
+			)
+		)::NUMERIC,
+		2
+	) AS AVG_DURACION_S,
+	COUNT(*) AS RUNS
+FROM
+	"Run" R
+	LEFT JOIN "Modelo" M ON M.ID_RUN = R.ID_RUN
+WHERE
+	R.ESTADO = 'COMPLETED'
+	AND R.TIEMPO_INICIO IS NOT NULL
+	AND R.TIEMPO_FIN IS NOT NULL
+GROUP BY
+	COALESCE(M.ALGORITMO, '(sin modelo)')
+ORDER BY
+	AVG_DURACION_S
+LIMIT 10;

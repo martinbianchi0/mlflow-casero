@@ -1,0 +1,1001 @@
+id_modelo,fecha_creacion,path_artefacto,stage,framework,algoritmo,id_run
+1,2024-09-16 11:46:13,/artifacts/run_375/model.pkl,Monitoring,CatBoost,QDA,375
+16,2024-09-16 13:21:27,/artifacts/run_463/model.onnx,Development,CatBoost,XGBoost,463
+21,2024-09-16 13:47:26,/artifacts/run_512/model.pkl,Development,CatBoost,K-Nearest Neighbors,512
+28,2024-09-16 14:25:55,/artifacts/run_1247/model.joblib,Deployment,CatBoost,Decision Tree,1247
+40,2024-09-16 15:32:39,/artifacts/run_915/model.pkl,Deployment,CatBoost,Gaussian Mixture,915
+51,2024-09-16 16:47:49,/artifacts/run_216/weights.h5,Deployment,CatBoost,KMeans,216
+58,2024-09-16 17:23:17,/artifacts/run_243/model.joblib,Development,CatBoost,Decision Tree,243
+70,2024-09-16 18:25:30,/artifacts/run_1382/weights.h5,Deployment,CatBoost,QDA,1382
+81,2024-09-16 19:21:04,/artifacts/run_1389/model.pkl,Monitoring,CatBoost,QDA,1389
+83,2024-09-16 19:26:59,/artifacts/run_1332/model.onnx,Deployment,CatBoost,Random Forest,1332
+96,2024-09-16 20:45:07,/artifacts/run_508/model.joblib,Deployment,CatBoost,Logistic Regression,508
+105,2024-09-16 21:34:18,/artifacts/run_616/model.pkl,Development,CatBoost,Gradient Boosting,616
+113,2024-09-16 22:39:51,/artifacts/run_383/model.onnx,Development,CatBoost,K-Nearest Neighbors,383
+124,2024-09-16 23:47:27,/artifacts/run_55/model.onnx,Monitoring,CatBoost,CatBoost,55
+129,2024-09-17 00:20:20,/artifacts/run_1046/weights.h5,Evaluation,CatBoost,QDA,1046
+142,2024-09-17 01:32:18,/artifacts/run_330/weights.h5,Deployment,CatBoost,LightGBM,330
+146,2024-09-17 01:51:56,/artifacts/run_579/model.pkl,Monitoring,CatBoost,XGBoost,579
+156,2024-09-17 02:43:35,/artifacts/run_38/model.pkl,Evaluation,CatBoost,Logistic Regression,38
+163,2024-09-17 03:25:01,/artifacts/run_905/model.onnx,Deployment,CatBoost,Neural Network,905
+180,2024-09-17 05:04:40,/artifacts/run_148/weights.h5,Development,CatBoost,KMeans,148
+187,2024-09-17 05:46:22,/artifacts/run_1438/model.pkl,Evaluation,CatBoost,LDA,1438
+190,2024-09-17 06:01:14,/artifacts/run_1021/weights.h5,Evaluation,CatBoost,Neural Network,1021
+201,2024-09-17 06:46:43,/artifacts/run_64/weights.h5,Deployment,CatBoost,K-Nearest Neighbors,64
+214,2024-09-17 08:09:27,/artifacts/run_1486/model.onnx,Evaluation,CatBoost,Support Vector Machine,1486
+221,2024-09-17 08:47:03,/artifacts/run_309/model.joblib,Deployment,CatBoost,XGBoost,309
+230,2024-09-17 09:43:57,/artifacts/run_1413/model.pkl,Development,CatBoost,LDA,1413
+239,2024-09-17 10:35:13,/artifacts/run_143/model.pkl,Monitoring,CatBoost,LightGBM,143
+245,2024-09-17 11:07:39,/artifacts/run_695/model.onnx,Development,CatBoost,Gaussian Mixture,695
+256,2024-09-17 12:16:27,/artifacts/run_1074/model.joblib,Development,CatBoost,LDA,1074
+262,2024-09-17 12:50:11,/artifacts/run_1497/model.onnx,Evaluation,CatBoost,CatBoost,1497
+272,2024-09-17 13:48:36,/artifacts/run_482/model.pkl,Evaluation,CatBoost,XGBoost,482
+287,2024-09-17 15:05:43,/artifacts/run_595/weights.h5,Deployment,CatBoost,CatBoost,595
+291,2024-09-17 15:30:52,/artifacts/run_641/weights.h5,Monitoring,CatBoost,XGBoost,641
+306,2024-09-17 16:38:54,/artifacts/run_1228/model.pkl,Evaluation,CatBoost,LDA,1228
+307,2024-09-17 16:48:11,/artifacts/run_1186/model.onnx,Deployment,CatBoost,Decision Tree,1186
+317,2024-09-17 17:44:06,/artifacts/run_1065/model.onnx,Deployment,CatBoost,QDA,1065
+331,2024-09-17 19:02:26,/artifacts/run_335/model.joblib,Monitoring,CatBoost,Gaussian Mixture,335
+340,2024-09-17 19:58:31,/artifacts/run_337/model.onnx,Evaluation,CatBoost,Random Forest,337
+347,2024-09-17 20:25:18,/artifacts/run_775/model.joblib,Monitoring,CatBoost,Support Vector Machine,775
+359,2024-09-17 21:26:59,/artifacts/run_655/model.onnx,Monitoring,CatBoost,Gradient Boosting,655
+364,2024-09-17 21:43:46,/artifacts/run_1176/model.pkl,Evaluation,CatBoost,Logistic Regression,1176
+374,2024-09-17 22:48:57,/artifacts/run_1174/model.joblib,Evaluation,CatBoost,Random Forest,1174
+379,2024-09-17 23:12:39,/artifacts/run_294/model.pkl,Monitoring,CatBoost,LightGBM,294
+395,2024-09-18 00:41:53,/artifacts/run_1042/model.joblib,Development,CatBoost,Logistic Regression,1042
+405,2024-09-18 01:47:51,/artifacts/run_852/model.pkl,Development,CatBoost,LightGBM,852
+406,2024-09-18 01:52:21,/artifacts/run_885/model.pkl,Deployment,CatBoost,XGBoost,885
+420,2024-09-18 03:18:17,/artifacts/run_1212/model.onnx,Evaluation,CatBoost,Naive Bayes,1212
+429,2024-09-18 03:55:26,/artifacts/run_656/weights.h5,Development,CatBoost,Random Forest,656
+439,2024-09-18 04:53:20,/artifacts/run_633/model.onnx,Evaluation,CatBoost,DBSCAN,633
+443,2024-09-18 05:25:40,/artifacts/run_785/model.onnx,Evaluation,CatBoost,Random Forest,785
+454,2024-09-18 06:28:39,/artifacts/run_945/model.joblib,Deployment,CatBoost,Logistic Regression,945
+461,2024-09-18 07:03:53,/artifacts/run_559/model.onnx,Monitoring,CatBoost,Random Forest,559
+476,2024-09-18 08:07:22,/artifacts/run_462/model.joblib,Evaluation,CatBoost,Gaussian Mixture,462
+486,2024-09-18 09:15:53,/artifacts/run_1494/model.joblib,Evaluation,CatBoost,Naive Bayes,1494
+487,2024-09-18 09:23:49,/artifacts/run_1469/weights.h5,Monitoring,CatBoost,DBSCAN,1469
+498,2024-09-18 10:13:16,/artifacts/run_828/model.onnx,Monitoring,CatBoost,Naive Bayes,828
+505,2024-09-18 10:44:07,/artifacts/run_476/model.joblib,Monitoring,CatBoost,QDA,476
+516,2024-09-18 11:46:46,/artifacts/run_1069/model.pkl,Deployment,CatBoost,Random Forest,1069
+525,2024-09-18 12:29:53,/artifacts/run_115/model.onnx,Development,CatBoost,Gaussian Mixture,115
+540,2024-09-18 13:53:14,/artifacts/run_186/model.joblib,Monitoring,CatBoost,K-Nearest Neighbors,186
+545,2024-09-18 14:32:14,/artifacts/run_572/model.onnx,Monitoring,CatBoost,Gaussian Mixture,572
+554,2024-09-18 15:21:39,/artifacts/run_561/weights.h5,Evaluation,CatBoost,Naive Bayes,561
+564,2024-09-18 16:03:34,/artifacts/run_62/model.onnx,Development,CatBoost,K-Nearest Neighbors,62
+576,2024-09-18 17:00:17,/artifacts/run_1014/weights.h5,Deployment,CatBoost,DBSCAN,1014
+579,2024-09-18 17:09:32,/artifacts/run_836/weights.h5,Evaluation,CatBoost,KMeans,836
+589,2024-09-18 18:02:19,/artifacts/run_525/weights.h5,Evaluation,CatBoost,DBSCAN,525
+601,2024-09-18 18:57:09,/artifacts/run_230/model.pkl,Monitoring,CatBoost,Naive Bayes,230
+606,2024-09-18 19:23:49,/artifacts/run_687/model.pkl,Deployment,CatBoost,DBSCAN,687
+617,2024-09-18 20:17:26,/artifacts/run_372/weights.h5,Monitoring,CatBoost,DBSCAN,372
+625,2024-09-18 20:50:14,/artifacts/run_251/weights.h5,Evaluation,CatBoost,Decision Tree,251
+631,2024-09-18 21:19:35,/artifacts/run_246/model.joblib,Development,CatBoost,LDA,246
+642,2024-09-18 22:34:37,/artifacts/run_1375/model.joblib,Evaluation,CatBoost,Decision Tree,1375
+656,2024-09-18 23:54:26,/artifacts/run_654/model.joblib,Monitoring,CatBoost,KMeans,654
+658,2024-09-19 00:01:05,/artifacts/run_582/model.pkl,Monitoring,CatBoost,Logistic Regression,582
+671,2024-09-19 01:12:43,/artifacts/run_93/weights.h5,Deployment,CatBoost,Neural Network,93
+676,2024-09-19 01:46:37,/artifacts/run_208/model.joblib,Deployment,CatBoost,CatBoost,208
+690,2024-09-19 03:12:59,/artifacts/run_440/model.onnx,Deployment,CatBoost,Logistic Regression,440
+694,2024-09-19 03:26:35,/artifacts/run_591/weights.h5,Development,CatBoost,Random Forest,591
+707,2024-09-19 04:56:24,/artifacts/run_199/model.joblib,Monitoring,CatBoost,K-Nearest Neighbors,199
+713,2024-09-19 05:29:38,/artifacts/run_780/model.onnx,Monitoring,CatBoost,QDA,780
+724,2024-09-19 06:27:09,/artifacts/run_6/weights.h5,Evaluation,CatBoost,LightGBM,6
+734,2024-09-19 07:15:47,/artifacts/run_1003/weights.h5,Evaluation,CatBoost,QDA,1003
+743,2024-09-19 08:06:16,/artifacts/run_1251/model.onnx,Monitoring,CatBoost,DBSCAN,1251
+752,2024-09-19 08:53:20,/artifacts/run_1330/model.onnx,Evaluation,CatBoost,Neural Network,1330
+764,2024-09-19 10:12:11,/artifacts/run_407/model.onnx,Development,CatBoost,Support Vector Machine,407
+767,2024-09-19 10:25:15,/artifacts/run_574/model.joblib,Monitoring,CatBoost,Gradient Boosting,574
+775,2024-09-19 11:19:13,/artifacts/run_450/model.onnx,Deployment,CatBoost,CatBoost,450
+790,2024-09-19 12:37:04,/artifacts/run_51/model.pkl,Development,CatBoost,Logistic Regression,51
+800,2024-09-19 13:42:22,/artifacts/run_1453/weights.h5,Evaluation,CatBoost,Naive Bayes,1453
+803,2024-09-19 13:50:29,/artifacts/run_111/weights.h5,Monitoring,CatBoost,Neural Network,111
+815,2024-09-19 15:01:11,/artifacts/run_381/model.pkl,Monitoring,CatBoost,Naive Bayes,381
+825,2024-09-19 15:52:29,/artifacts/run_284/model.pkl,Evaluation,CatBoost,LDA,284
+830,2024-09-19 16:16:09,/artifacts/run_163/model.joblib,Development,CatBoost,Support Vector Machine,163
+843,2024-09-19 17:16:20,/artifacts/run_919/weights.h5,Monitoring,CatBoost,Random Forest,919
+850,2024-09-19 17:53:44,/artifacts/run_410/weights.h5,Monitoring,CatBoost,LDA,410
+856,2024-09-19 18:36:51,/artifacts/run_1481/model.joblib,Deployment,CatBoost,KMeans,1481
+871,2024-09-19 19:57:59,/artifacts/run_1093/model.pkl,Deployment,CatBoost,LDA,1093
+874,2024-09-19 20:12:47,/artifacts/run_702/model.joblib,Monitoring,CatBoost,CatBoost,702
+884,2024-09-19 21:18:20,/artifacts/run_1233/model.joblib,Evaluation,CatBoost,Gradient Boosting,1233
+896,2024-09-19 22:10:00,/artifacts/run_344/model.onnx,Evaluation,CatBoost,Neural Network,344
+907,2024-09-19 23:00:16,/artifacts/run_958/model.joblib,Development,CatBoost,Gaussian Mixture,958
+916,2024-09-19 23:58:33,/artifacts/run_1088/model.pkl,Deployment,CatBoost,DBSCAN,1088
+926,2024-09-20 00:44:37,/artifacts/run_895/weights.h5,Deployment,CatBoost,KMeans,895
+933,2024-09-20 01:21:55,/artifacts/run_669/model.joblib,Development,CatBoost,DBSCAN,669
+940,2024-09-20 01:57:22,/artifacts/run_453/weights.h5,Evaluation,CatBoost,QDA,453
+951,2024-09-20 02:56:46,/artifacts/run_1091/weights.h5,Deployment,CatBoost,Random Forest,1091
+957,2024-09-20 03:25:14,/artifacts/run_1480/weights.h5,Deployment,CatBoost,Decision Tree,1480
+970,2024-09-20 04:49:27,/artifacts/run_369/model.onnx,Development,CatBoost,K-Nearest Neighbors,369
+978,2024-09-20 05:49:01,/artifacts/run_1241/model.pkl,Evaluation,CatBoost,Naive Bayes,1241
+982,2024-09-20 06:08:50,/artifacts/run_343/model.onnx,Development,CatBoost,Gaussian Mixture,343
+999,2024-09-20 07:33:36,/artifacts/run_565/model.onnx,Monitoring,CatBoost,KMeans,565
+5,2024-09-16 12:06:26,/artifacts/run_853/model.pkl,Monitoring,Keras,LightGBM,853
+17,2024-09-16 13:29:13,/artifacts/run_599/model.pkl,Monitoring,Keras,DBSCAN,599
+24,2024-09-16 14:03:10,/artifacts/run_275/model.onnx,Deployment,Keras,CatBoost,275
+34,2024-09-16 14:53:42,/artifacts/run_906/model.joblib,Monitoring,Keras,Decision Tree,906
+43,2024-09-16 15:44:19,/artifacts/run_932/model.pkl,Evaluation,Keras,K-Nearest Neighbors,932
+54,2024-09-16 17:03:32,/artifacts/run_503/model.onnx,Development,Keras,K-Nearest Neighbors,503
+61,2024-09-16 17:37:27,/artifacts/run_129/model.joblib,Evaluation,Keras,DBSCAN,129
+64,2024-09-16 17:54:04,/artifacts/run_1123/model.onnx,Development,Keras,LDA,1123
+73,2024-09-16 18:43:50,/artifacts/run_393/model.onnx,Development,Keras,KMeans,393
+85,2024-09-16 19:41:01,/artifacts/run_1370/weights.h5,Monitoring,Keras,LightGBM,1370
+97,2024-09-16 20:51:34,/artifacts/run_826/model.pkl,Evaluation,Keras,Random Forest,826
+106,2024-09-16 21:43:02,/artifacts/run_296/weights.h5,Evaluation,Keras,KMeans,296
+116,2024-09-16 22:58:09,/artifacts/run_266/weights.h5,Evaluation,Keras,Decision Tree,266
+126,2024-09-16 23:59:20,/artifacts/run_610/model.joblib,Monitoring,Keras,Gaussian Mixture,610
+135,2024-09-17 00:55:30,/artifacts/run_1142/model.pkl,Monitoring,Keras,CatBoost,1142
+143,2024-09-17 01:40:03,/artifacts/run_1473/model.joblib,Development,Keras,LDA,1473
+152,2024-09-17 02:29:58,/artifacts/run_994/weights.h5,Deployment,Keras,Decision Tree,994
+160,2024-09-17 02:58:27,/artifacts/run_30/model.onnx,Evaluation,Keras,Random Forest,30
+169,2024-09-17 04:01:39,/artifacts/run_426/model.pkl,Development,Keras,DBSCAN,426
+172,2024-09-17 04:17:29,/artifacts/run_235/model.joblib,Deployment,Keras,LDA,235
+188,2024-09-17 05:51:26,/artifacts/run_179/model.pkl,Monitoring,Keras,DBSCAN,179
+192,2024-09-17 06:08:41,/artifacts/run_384/weights.h5,Development,Keras,Gaussian Mixture,384
+203,2024-09-17 07:04:40,/artifacts/run_104/weights.h5,Monitoring,Keras,CatBoost,104
+215,2024-09-17 08:18:27,/artifacts/run_877/model.pkl,Development,Keras,KMeans,877
+223,2024-09-17 09:06:05,/artifacts/run_280/model.onnx,Evaluation,Keras,K-Nearest Neighbors,280
+234,2024-09-17 10:03:24,/artifacts/run_771/model.onnx,Monitoring,Keras,XGBoost,771
+240,2024-09-17 10:38:49,/artifacts/run_1075/model.pkl,Deployment,Keras,Neural Network,1075
+249,2024-09-17 11:28:57,/artifacts/run_260/model.pkl,Evaluation,Keras,Logistic Regression,260
+260,2024-09-17 12:39:47,/artifacts/run_635/model.joblib,Evaluation,Keras,LightGBM,635
+266,2024-09-17 13:12:31,/artifacts/run_911/model.pkl,Deployment,Keras,K-Nearest Neighbors,911
+273,2024-09-17 13:53:03,/artifacts/run_1316/model.pkl,Evaluation,Keras,DBSCAN,1316
+282,2024-09-17 14:41:47,/artifacts/run_92/model.pkl,Evaluation,Keras,Neural Network,92
+292,2024-09-17 15:36:29,/artifacts/run_1354/weights.h5,Development,Keras,Support Vector Machine,1354
+299,2024-09-17 16:13:28,/artifacts/run_717/model.joblib,Deployment,Keras,Naive Bayes,717
+308,2024-09-17 16:55:39,/artifacts/run_778/model.pkl,Development,Keras,KMeans,778
+318,2024-09-17 17:46:47,/artifacts/run_1178/model.pkl,Development,Keras,K-Nearest Neighbors,1178
+332,2024-09-17 19:11:32,/artifacts/run_1464/model.pkl,Development,Keras,Gradient Boosting,1464
+334,2024-09-17 19:24:51,/artifacts/run_1324/model.pkl,Deployment,Keras,K-Nearest Neighbors,1324
+350,2024-09-17 20:36:13,/artifacts/run_200/model.pkl,Deployment,Keras,XGBoost,200
+352,2024-09-17 20:47:46,/artifacts/run_419/model.onnx,Evaluation,Keras,Naive Bayes,419
+366,2024-09-17 22:00:59,/artifacts/run_846/weights.h5,Evaluation,Keras,Random Forest,846
+376,2024-09-17 23:03:44,/artifacts/run_327/model.onnx,Deployment,Keras,Gradient Boosting,327
+381,2024-09-17 23:24:30,/artifacts/run_1356/model.pkl,Evaluation,Keras,KMeans,1356
+396,2024-09-18 00:50:45,/artifacts/run_492/model.pkl,Deployment,Keras,Support Vector Machine,492
+397,2024-09-18 00:59:57,/artifacts/run_1145/model.joblib,Development,Keras,K-Nearest Neighbors,1145
+407,2024-09-18 02:01:40,/artifacts/run_210/model.joblib,Evaluation,Keras,LDA,210
+422,2024-09-18 03:24:46,/artifacts/run_851/model.onnx,Deployment,Keras,KMeans,851
+426,2024-09-18 03:43:54,/artifacts/run_451/weights.h5,Evaluation,Keras,Logistic Regression,451
+433,2024-09-18 04:12:30,/artifacts/run_1227/model.onnx,Deployment,Keras,Logistic Regression,1227
+444,2024-09-18 05:27:39,/artifacts/run_1280/model.onnx,Deployment,Keras,Naive Bayes,1280
+451,2024-09-18 06:09:36,/artifacts/run_1417/model.pkl,Evaluation,Keras,KMeans,1417
+462,2024-09-18 07:13:47,/artifacts/run_1306/model.joblib,Development,Keras,DBSCAN,1306
+471,2024-09-18 07:46:35,/artifacts/run_569/weights.h5,Monitoring,Keras,CatBoost,569
+481,2024-09-18 08:33:47,/artifacts/run_662/model.joblib,Monitoring,Keras,KMeans,662
+493,2024-09-18 09:45:51,/artifacts/run_1029/weights.h5,Deployment,Keras,Decision Tree,1029
+502,2024-09-18 10:33:41,/artifacts/run_1215/model.pkl,Monitoring,Keras,CatBoost,1215
+507,2024-09-18 11:01:28,/artifacts/run_884/weights.h5,Deployment,Keras,Logistic Regression,884
+520,2024-09-18 12:00:55,/artifacts/run_436/model.joblib,Deployment,Keras,CatBoost,436
+527,2024-09-18 12:38:24,/artifacts/run_640/weights.h5,Monitoring,Keras,DBSCAN,640
+532,2024-09-18 13:04:40,/artifacts/run_627/model.joblib,Deployment,Keras,Logistic Regression,627
+542,2024-09-18 14:11:07,/artifacts/run_988/model.onnx,Evaluation,Keras,Decision Tree,988
+558,2024-09-18 15:33:32,/artifacts/run_1213/model.pkl,Development,Keras,CatBoost,1213
+565,2024-09-18 16:06:27,/artifacts/run_292/model.onnx,Monitoring,Keras,Gradient Boosting,292
+570,2024-09-18 16:28:38,/artifacts/run_571/weights.h5,Evaluation,Keras,KMeans,571
+580,2024-09-18 17:16:29,/artifacts/run_379/model.joblib,Monitoring,Keras,XGBoost,379
+590,2024-09-18 18:06:21,/artifacts/run_1242/model.onnx,Development,Keras,Logistic Regression,1242
+602,2024-09-18 19:04:53,/artifacts/run_18/model.onnx,Evaluation,Keras,Logistic Regression,18
+610,2024-09-18 19:38:33,/artifacts/run_704/model.pkl,Evaluation,Keras,Decision Tree,704
+618,2024-09-18 20:21:18,/artifacts/run_615/model.joblib,Evaluation,Keras,Logistic Regression,615
+628,2024-09-18 21:02:28,/artifacts/run_497/model.onnx,Deployment,Keras,Naive Bayes,497
+637,2024-09-18 21:54:12,/artifacts/run_557/model.onnx,Development,Keras,CatBoost,557
+643,2024-09-18 22:37:15,/artifacts/run_673/model.onnx,Monitoring,Keras,Logistic Regression,673
+649,2024-09-18 23:19:26,/artifacts/run_998/weights.h5,Deployment,Keras,Neural Network,998
+661,2024-09-19 00:19:51,/artifacts/run_400/weights.h5,Development,Keras,KMeans,400
+672,2024-09-19 01:22:06,/artifacts/run_207/model.pkl,Evaluation,Keras,LDA,207
+682,2024-09-19 02:21:07,/artifacts/run_1386/model.joblib,Monitoring,Keras,XGBoost,1386
+692,2024-09-19 03:20:25,/artifacts/run_308/weights.h5,Monitoring,Keras,LDA,308
+700,2024-09-19 04:00:50,/artifacts/run_370/model.onnx,Evaluation,Keras,Naive Bayes,370
+709,2024-09-19 05:08:11,/artifacts/run_107/model.joblib,Development,Keras,Support Vector Machine,107
+714,2024-09-19 05:30:51,/artifacts/run_1358/weights.h5,Development,Keras,LDA,1358
+728,2024-09-19 06:47:49,/artifacts/run_394/model.onnx,Deployment,Keras,CatBoost,394
+738,2024-09-19 07:39:25,/artifacts/run_264/model.onnx,Deployment,Keras,K-Nearest Neighbors,264
+746,2024-09-19 08:21:41,/artifacts/run_1426/model.joblib,Deployment,Keras,Naive Bayes,1426
+756,2024-09-19 09:24:26,/artifacts/run_416/model.pkl,Deployment,Keras,KMeans,416
+758,2024-09-19 09:37:51,/artifacts/run_1443/weights.h5,Monitoring,Keras,LDA,1443
+768,2024-09-19 10:31:21,/artifacts/run_1421/model.pkl,Development,Keras,Random Forest,1421
+776,2024-09-19 11:28:32,/artifacts/run_282/model.onnx,Development,Keras,Support Vector Machine,282
+791,2024-09-19 12:41:55,/artifacts/run_1285/model.onnx,Deployment,Keras,Gaussian Mixture,1285
+801,2024-09-19 13:45:27,/artifacts/run_226/model.onnx,Development,Keras,KMeans,226
+809,2024-09-19 14:25:59,/artifacts/run_1377/model.joblib,Monitoring,Keras,K-Nearest Neighbors,1377
+817,2024-09-19 15:11:23,/artifacts/run_608/model.pkl,Deployment,Keras,LightGBM,608
+828,2024-09-19 16:08:41,/artifacts/run_666/model.pkl,Development,Keras,Decision Tree,666
+831,2024-09-19 16:21:54,/artifacts/run_1156/model.joblib,Deployment,Keras,KMeans,1156
+838,2024-09-19 16:59:28,/artifacts/run_42/model.pkl,Development,Keras,Decision Tree,42
+854,2024-09-19 18:22:50,/artifacts/run_527/weights.h5,Evaluation,Keras,Gaussian Mixture,527
+858,2024-09-19 18:53:15,/artifacts/run_1153/model.joblib,Deployment,Keras,XGBoost,1153
+866,2024-09-19 19:32:24,/artifacts/run_837/model.onnx,Deployment,Keras,Support Vector Machine,837
+880,2024-09-19 20:55:47,/artifacts/run_1099/model.pkl,Evaluation,Keras,XGBoost,1099
+888,2024-09-19 21:40:17,/artifacts/run_942/model.onnx,Evaluation,Keras,KMeans,942
+900,2024-09-19 22:23:22,/artifacts/run_1240/model.pkl,Evaluation,Keras,Support Vector Machine,1240
+901,2024-09-19 22:25:36,/artifacts/run_805/model.pkl,Evaluation,Keras,DBSCAN,805
+917,2024-09-20 00:01:35,/artifacts/run_1406/model.onnx,Evaluation,Keras,Logistic Regression,1406
+919,2024-09-20 00:07:45,/artifacts/run_719/model.joblib,Deployment,Keras,Random Forest,719
+928,2024-09-20 00:52:53,/artifacts/run_1258/model.onnx,Evaluation,Keras,CatBoost,1258
+942,2024-09-20 02:13:53,/artifacts/run_1232/weights.h5,Deployment,Keras,Support Vector Machine,1232
+946,2024-09-20 02:36:49,/artifacts/run_1136/weights.h5,Development,Keras,Logistic Regression,1136
+963,2024-09-20 04:13:08,/artifacts/run_247/model.onnx,Deployment,Keras,Support Vector Machine,247
+967,2024-09-20 04:35:52,/artifacts/run_223/model.joblib,Deployment,Keras,Logistic Regression,223
+975,2024-09-20 05:31:26,/artifacts/run_46/weights.h5,Development,Keras,LDA,46
+988,2024-09-20 06:42:12,/artifacts/run_1193/weights.h5,Deployment,Keras,Decision Tree,1193
+994,2024-09-20 07:10:51,/artifacts/run_880/weights.h5,Development,Keras,K-Nearest Neighbors,880
+4,2024-09-16 12:02:55,/artifacts/run_917/model.joblib,Evaluation,LightGBM,Gradient Boosting,917
+12,2024-09-16 12:49:45,/artifacts/run_643/model.joblib,Monitoring,LightGBM,KMeans,643
+27,2024-09-16 14:21:56,/artifacts/run_1020/model.onnx,Evaluation,LightGBM,QDA,1020
+36,2024-09-16 15:09:28,/artifacts/run_145/weights.h5,Deployment,LightGBM,Random Forest,145
+45,2024-09-16 16:00:01,/artifacts/run_793/model.pkl,Monitoring,LightGBM,Gradient Boosting,793
+48,2024-09-16 16:25:45,/artifacts/run_758/weights.h5,Evaluation,LightGBM,KMeans,758
+55,2024-09-16 17:05:50,/artifacts/run_1073/model.pkl,Deployment,LightGBM,QDA,1073
+66,2024-09-16 18:00:18,/artifacts/run_1121/weights.h5,Monitoring,LightGBM,Random Forest,1121
+78,2024-09-16 19:04:27,/artifacts/run_842/model.onnx,Evaluation,LightGBM,Neural Network,842
+88,2024-09-16 19:57:44,/artifacts/run_819/model.onnx,Evaluation,LightGBM,Decision Tree,819
+92,2024-09-16 20:20:19,/artifacts/run_214/weights.h5,Monitoring,LightGBM,KMeans,214
+102,2024-09-16 21:21:07,/artifacts/run_1490/weights.h5,Deployment,LightGBM,Decision Tree,1490
+109,2024-09-16 22:05:25,/artifacts/run_488/model.pkl,Development,LightGBM,DBSCAN,488
+125,2024-09-16 23:53:11,/artifacts/run_1239/model.onnx,Development,LightGBM,KMeans,1239
+128,2024-09-17 00:12:57,/artifacts/run_1268/model.onnx,Deployment,LightGBM,Neural Network,1268
+139,2024-09-17 01:13:32,/artifacts/run_1149/model.onnx,Monitoring,LightGBM,Gradient Boosting,1149
+147,2024-09-17 02:00:31,/artifacts/run_456/model.pkl,Development,LightGBM,Neural Network,456
+159,2024-09-17 02:52:48,/artifacts/run_75/model.onnx,Deployment,LightGBM,Support Vector Machine,75
+171,2024-09-17 04:11:05,/artifacts/run_267/weights.h5,Evaluation,LightGBM,XGBoost,267
+176,2024-09-17 04:46:33,/artifacts/run_417/weights.h5,Monitoring,LightGBM,LightGBM,417
+181,2024-09-17 05:08:44,/artifacts/run_29/weights.h5,Development,LightGBM,K-Nearest Neighbors,29
+195,2024-09-17 06:21:14,/artifacts/run_209/model.onnx,Monitoring,LightGBM,Naive Bayes,209
+206,2024-09-17 07:15:28,/artifacts/run_589/weights.h5,Deployment,LightGBM,Support Vector Machine,589
+211,2024-09-17 07:49:56,/artifacts/run_773/model.pkl,Evaluation,LightGBM,Decision Tree,773
+222,2024-09-17 08:56:28,/artifacts/run_948/model.joblib,Development,LightGBM,Random Forest,948
+226,2024-09-17 09:23:39,/artifacts/run_1303/model.joblib,Monitoring,LightGBM,K-Nearest Neighbors,1303
+236,2024-09-17 10:17:23,/artifacts/run_1209/model.pkl,Deployment,LightGBM,Naive Bayes,1209
+250,2024-09-17 11:37:53,/artifacts/run_353/model.onnx,Monitoring,LightGBM,Support Vector Machine,353
+261,2024-09-17 12:43:47,/artifacts/run_1410/model.onnx,Development,LightGBM,Logistic Regression,1410
+267,2024-09-17 13:18:04,/artifacts/run_624/model.pkl,Development,LightGBM,Gaussian Mixture,624
+275,2024-09-17 14:05:02,/artifacts/run_507/model.joblib,Development,LightGBM,LDA,507
+281,2024-09-17 14:36:17,/artifacts/run_1422/model.onnx,Monitoring,LightGBM,Gradient Boosting,1422
+297,2024-09-17 16:07:45,/artifacts/run_700/weights.h5,Monitoring,LightGBM,LDA,700
+298,2024-09-17 16:11:56,/artifacts/run_224/model.pkl,Evaluation,LightGBM,Random Forest,224
+312,2024-09-17 17:13:37,/artifacts/run_169/model.joblib,Evaluation,LightGBM,Naive Bayes,169
+320,2024-09-17 17:57:58,/artifacts/run_1032/model.joblib,Monitoring,LightGBM,Gradient Boosting,1032
+328,2024-09-17 18:51:29,/artifacts/run_883/model.onnx,Deployment,LightGBM,Naive Bayes,883
+337,2024-09-17 19:46:42,/artifacts/run_886/model.pkl,Deployment,LightGBM,Gaussian Mixture,886
+344,2024-09-17 20:16:25,/artifacts/run_1254/weights.h5,Evaluation,LightGBM,CatBoost,1254
+355,2024-09-17 21:01:56,/artifacts/run_1033/model.onnx,Development,LightGBM,XGBoost,1033
+365,2024-09-17 21:51:57,/artifacts/run_1140/model.onnx,Development,LightGBM,CatBoost,1140
+370,2024-09-17 22:26:26,/artifacts/run_17/weights.h5,Monitoring,LightGBM,Naive Bayes,17
+380,2024-09-17 23:15:23,/artifacts/run_219/model.pkl,Development,LightGBM,LDA,219
+392,2024-09-18 00:30:10,/artifacts/run_755/model.pkl,Deployment,LightGBM,QDA,755
+402,2024-09-18 01:33:28,/artifacts/run_1086/weights.h5,Development,LightGBM,Support Vector Machine,1086
+412,2024-09-18 02:38:52,/artifacts/run_811/weights.h5,Monitoring,LightGBM,KMeans,811
+416,2024-09-18 03:01:51,/artifacts/run_120/model.pkl,Monitoring,LightGBM,Logistic Regression,120
+428,2024-09-18 03:53:05,/artifacts/run_592/model.onnx,Deployment,LightGBM,Support Vector Machine,592
+435,2024-09-18 04:24:38,/artifacts/run_434/weights.h5,Monitoring,LightGBM,K-Nearest Neighbors,434
+449,2024-09-18 05:52:43,/artifacts/run_546/model.joblib,Development,LightGBM,CatBoost,546
+453,2024-09-18 06:20:36,/artifacts/run_815/model.joblib,Monitoring,LightGBM,Decision Tree,815
+464,2024-09-18 07:26:02,/artifacts/run_824/weights.h5,Evaluation,LightGBM,Gaussian Mixture,824
+472,2024-09-18 07:48:44,/artifacts/run_833/model.joblib,Evaluation,LightGBM,Random Forest,833
+482,2024-09-18 08:42:56,/artifacts/run_542/model.pkl,Deployment,LightGBM,XGBoost,542
+495,2024-09-18 09:54:51,/artifacts/run_825/model.joblib,Evaluation,LightGBM,LightGBM,825
+501,2024-09-18 10:29:17,/artifacts/run_594/model.onnx,Development,LightGBM,Gradient Boosting,594
+510,2024-09-18 11:14:26,/artifacts/run_628/model.onnx,Evaluation,LightGBM,Support Vector Machine,628
+521,2024-09-18 12:08:20,/artifacts/run_138/model.pkl,Monitoring,LightGBM,LDA,138
+530,2024-09-18 12:54:51,/artifacts/run_286/model.pkl,Monitoring,LightGBM,Naive Bayes,286
+534,2024-09-18 13:12:29,/artifacts/run_239/model.onnx,Development,LightGBM,CatBoost,239
+544,2024-09-18 14:23:31,/artifacts/run_859/model.joblib,Deployment,LightGBM,Support Vector Machine,859
+557,2024-09-18 15:31:29,/artifacts/run_995/model.onnx,Evaluation,LightGBM,XGBoost,995
+561,2024-09-18 15:54:29,/artifacts/run_706/model.pkl,Deployment,LightGBM,Logistic Regression,706
+573,2024-09-18 16:45:53,/artifacts/run_875/weights.h5,Monitoring,LightGBM,Support Vector Machine,875
+584,2024-09-18 17:41:30,/artifacts/run_1482/model.joblib,Monitoring,LightGBM,Naive Bayes,1482
+594,2024-09-18 18:19:04,/artifacts/run_544/model.joblib,Evaluation,LightGBM,QDA,544
+598,2024-09-18 18:39:22,/artifacts/run_515/model.pkl,Deployment,LightGBM,LightGBM,515
+611,2024-09-18 19:47:23,/artifacts/run_914/weights.h5,Development,LightGBM,CatBoost,914
+613,2024-09-18 20:02:12,/artifacts/run_320/model.pkl,Monitoring,LightGBM,Gradient Boosting,320
+622,2024-09-18 20:40:58,/artifacts/run_395/model.joblib,Development,LightGBM,K-Nearest Neighbors,395
+632,2024-09-18 21:22:33,/artifacts/run_349/weights.h5,Deployment,LightGBM,Neural Network,349
+647,2024-09-18 23:03:54,/artifacts/run_648/model.joblib,Deployment,LightGBM,Gradient Boosting,648
+657,2024-09-18 23:59:02,/artifacts/run_88/weights.h5,Deployment,LightGBM,Naive Bayes,88
+664,2024-09-19 00:43:21,/artifacts/run_1201/model.joblib,Monitoring,LightGBM,Gaussian Mixture,1201
+674,2024-09-19 01:33:34,/artifacts/run_1063/model.pkl,Evaluation,LightGBM,K-Nearest Neighbors,1063
+684,2024-09-19 02:35:03,/artifacts/run_957/weights.h5,Deployment,LightGBM,Naive Bayes,957
+686,2024-09-19 02:45:11,/artifacts/run_816/model.joblib,Deployment,LightGBM,Gradient Boosting,816
+695,2024-09-19 03:30:24,/artifacts/run_1196/weights.h5,Monitoring,LightGBM,KMeans,1196
+708,2024-09-19 05:05:02,/artifacts/run_803/model.onnx,Evaluation,LightGBM,XGBoost,803
+718,2024-09-19 05:47:14,/artifacts/run_86/model.onnx,Evaluation,LightGBM,CatBoost,86
+727,2024-09-19 06:40:46,/artifacts/run_84/model.pkl,Monitoring,LightGBM,XGBoost,84
+730,2024-09-19 06:55:54,/artifacts/run_329/model.pkl,Development,LightGBM,Neural Network,329
+739,2024-09-19 07:45:14,/artifacts/run_103/model.joblib,Evaluation,LightGBM,LightGBM,103
+755,2024-09-19 09:16:05,/artifacts/run_541/model.joblib,Evaluation,LightGBM,QDA,541
+761,2024-09-19 09:51:34,/artifacts/run_431/model.joblib,Evaluation,LightGBM,LightGBM,431
+770,2024-09-19 10:39:48,/artifacts/run_489/weights.h5,Monitoring,LightGBM,Neural Network,489
+781,2024-09-19 11:50:48,/artifacts/run_509/model.joblib,Development,LightGBM,XGBoost,509
+786,2024-09-19 12:19:25,/artifacts/run_1188/model.joblib,Evaluation,LightGBM,Decision Tree,1188
+797,2024-09-19 13:24:38,/artifacts/run_748/model.onnx,Monitoring,LightGBM,Neural Network,748
+802,2024-09-19 13:48:02,/artifacts/run_168/model.onnx,Deployment,LightGBM,Gaussian Mixture,168
+816,2024-09-19 15:05:40,/artifacts/run_201/model.pkl,Deployment,LightGBM,Gradient Boosting,201
+821,2024-09-19 15:32:52,/artifacts/run_1122/model.joblib,Monitoring,LightGBM,Random Forest,1122
+835,2024-09-19 16:44:22,/artifacts/run_32/model.onnx,Evaluation,LightGBM,K-Nearest Neighbors,32
+839,2024-09-19 17:06:46,/artifacts/run_658/model.onnx,Deployment,LightGBM,DBSCAN,658
+853,2024-09-19 18:15:58,/artifacts/run_1343/model.joblib,Development,LightGBM,Naive Bayes,1343
+857,2024-09-19 18:44:59,/artifacts/run_1455/model.onnx,Development,LightGBM,Logistic Regression,1455
+867,2024-09-19 19:34:50,/artifacts/run_1475/model.joblib,Development,LightGBM,Decision Tree,1475
+882,2024-09-19 21:04:28,/artifacts/run_457/model.onnx,Deployment,LightGBM,K-Nearest Neighbors,457
+887,2024-09-19 21:36:29,/artifacts/run_1189/model.joblib,Monitoring,LightGBM,Decision Tree,1189
+892,2024-09-19 21:59:10,/artifacts/run_1290/weights.h5,Evaluation,LightGBM,Naive Bayes,1290
+904,2024-09-19 22:45:11,/artifacts/run_818/weights.h5,Monitoring,LightGBM,Naive Bayes,818
+910,2024-09-19 23:18:17,/artifacts/run_1049/model.onnx,Monitoring,LightGBM,Neural Network,1049
+922,2024-09-20 00:27:59,/artifacts/run_158/model.joblib,Deployment,LightGBM,Decision Tree,158
+936,2024-09-20 01:35:11,/artifacts/run_89/weights.h5,Deployment,LightGBM,Random Forest,89
+945,2024-09-20 02:27:49,/artifacts/run_449/model.onnx,Monitoring,LightGBM,KMeans,449
+954,2024-09-20 03:15:30,/artifacts/run_887/weights.h5,Evaluation,LightGBM,XGBoost,887
+958,2024-09-20 03:34:53,/artifacts/run_444/model.onnx,Monitoring,LightGBM,Naive Bayes,444
+969,2024-09-20 04:44:58,/artifacts/run_1061/model.joblib,Deployment,LightGBM,Random Forest,1061
+979,2024-09-20 05:53:57,/artifacts/run_203/model.onnx,Monitoring,LightGBM,LightGBM,203
+983,2024-09-20 06:12:17,/artifacts/run_1028/weights.h5,Deployment,LightGBM,Logistic Regression,1028
+995,2024-09-20 07:18:41,/artifacts/run_118/model.onnx,Deployment,LightGBM,QDA,118
+8,2024-09-16 12:26:03,/artifacts/run_1312/model.joblib,Evaluation,ONNX,Naive Bayes,1312
+11,2024-09-16 12:44:47,/artifacts/run_970/model.onnx,Development,ONNX,Random Forest,970
+26,2024-09-16 14:16:18,/artifacts/run_1384/model.joblib,Monitoring,ONNX,KMeans,1384
+32,2024-09-16 14:38:48,/artifacts/run_1051/model.pkl,Deployment,ONNX,Support Vector Machine,1051
+42,2024-09-16 15:41:33,/artifacts/run_922/model.joblib,Monitoring,ONNX,Naive Bayes,922
+47,2024-09-16 16:15:59,/artifacts/run_71/model.pkl,Development,ONNX,Neural Network,71
+63,2024-09-16 17:46:05,/artifacts/run_424/weights.h5,Deployment,ONNX,Gaussian Mixture,424
+72,2024-09-16 18:38:53,/artifacts/run_1425/model.onnx,Monitoring,ONNX,Support Vector Machine,1425
+80,2024-09-16 19:15:06,/artifacts/run_102/model.pkl,Deployment,ONNX,XGBoost,102
+90,2024-09-16 20:09:20,/artifacts/run_874/model.onnx,Deployment,ONNX,Naive Bayes,874
+91,2024-09-16 20:12:12,/artifacts/run_963/model.joblib,Evaluation,ONNX,Gradient Boosting,963
+104,2024-09-16 21:29:57,/artifacts/run_723/weights.h5,Evaluation,ONNX,Naive Bayes,723
+115,2024-09-16 22:52:31,/artifacts/run_236/model.joblib,Monitoring,ONNX,Support Vector Machine,236
+118,2024-09-16 23:13:05,/artifacts/run_1154/model.onnx,Development,ONNX,Gradient Boosting,1154
+133,2024-09-17 00:43:41,/artifacts/run_81/model.joblib,Deployment,ONNX,K-Nearest Neighbors,81
+141,2024-09-17 01:23:50,/artifacts/run_675/model.pkl,Monitoring,ONNX,KMeans,675
+151,2024-09-17 02:22:31,/artifacts/run_487/model.pkl,Monitoring,ONNX,Gradient Boosting,487
+154,2024-09-17 02:36:01,/artifacts/run_437/model.onnx,Deployment,ONNX,CatBoost,437
+167,2024-09-17 03:49:50,/artifacts/run_1087/weights.h5,Deployment,ONNX,K-Nearest Neighbors,1087
+175,2024-09-17 04:37:47,/artifacts/run_1117/weights.h5,Evaluation,ONNX,KMeans,1117
+182,2024-09-17 05:12:46,/artifacts/run_455/model.joblib,Monitoring,ONNX,Logistic Regression,455
+197,2024-09-17 06:30:40,/artifacts/run_1089/weights.h5,Development,ONNX,Gradient Boosting,1089
+199,2024-09-17 06:36:43,/artifacts/run_25/model.onnx,Evaluation,ONNX,Random Forest,25
+213,2024-09-17 08:02:24,/artifacts/run_796/model.onnx,Monitoring,ONNX,Gradient Boosting,796
+224,2024-09-17 09:13:02,/artifacts/run_316/model.pkl,Monitoring,ONNX,Gaussian Mixture,316
+229,2024-09-17 09:36:39,/artifacts/run_79/model.pkl,Deployment,ONNX,CatBoost,79
+238,2024-09-17 10:28:10,/artifacts/run_1148/model.pkl,Evaluation,ONNX,Random Forest,1148
+244,2024-09-17 10:58:51,/artifacts/run_918/model.joblib,Development,ONNX,LightGBM,918
+255,2024-09-17 12:12:58,/artifacts/run_1183/model.pkl,Deployment,ONNX,XGBoost,1183
+270,2024-09-17 13:39:27,/artifacts/run_812/model.joblib,Development,ONNX,Gradient Boosting,812
+276,2024-09-17 14:06:54,/artifacts/run_1198/model.onnx,Deployment,ONNX,Naive Bayes,1198
+285,2024-09-17 14:54:25,/artifacts/run_1300/model.joblib,Monitoring,ONNX,LightGBM,1300
+290,2024-09-17 15:22:02,/artifacts/run_1305/model.joblib,Evaluation,ONNX,K-Nearest Neighbors,1305
+300,2024-09-17 16:18:41,/artifacts/run_274/weights.h5,Development,ONNX,LightGBM,274
+311,2024-09-17 17:09:48,/artifacts/run_598/model.onnx,Monitoring,ONNX,Support Vector Machine,598
+321,2024-09-17 18:06:23,/artifacts/run_135/model.pkl,Monitoring,ONNX,Support Vector Machine,135
+330,2024-09-17 19:01:01,/artifacts/run_1435/weights.h5,Evaluation,ONNX,Logistic Regression,1435
+336,2024-09-17 19:39:42,/artifacts/run_336/model.joblib,Monitoring,ONNX,Random Forest,336
+343,2024-09-17 20:11:42,/artifacts/run_626/model.pkl,Monitoring,ONNX,Logistic Regression,626
+357,2024-09-17 21:15:49,/artifacts/run_1/model.joblib,Development,ONNX,Support Vector Machine,1
+367,2024-09-17 22:09:21,/artifacts/run_1459/model.onnx,Monitoring,ONNX,KMeans,1459
+372,2024-09-17 22:36:44,/artifacts/run_931/model.onnx,Development,ONNX,Logistic Regression,931
+382,2024-09-17 23:28:37,/artifacts/run_1342/model.pkl,Deployment,ONNX,XGBoost,1342
+394,2024-09-18 00:35:47,/artifacts/run_8/weights.h5,Evaluation,ONNX,Naive Bayes,8
+404,2024-09-18 01:39:43,/artifacts/run_972/model.pkl,Evaluation,ONNX,K-Nearest Neighbors,972
+414,2024-09-18 02:51:25,/artifacts/run_1322/weights.h5,Deployment,ONNX,Neural Network,1322
+418,2024-09-18 03:14:27,/artifacts/run_171/model.onnx,Development,ONNX,Decision Tree,171
+424,2024-09-18 03:34:14,/artifacts/run_478/weights.h5,Monitoring,ONNX,Neural Network,478
+441,2024-09-18 05:07:02,/artifacts/run_1217/weights.h5,Development,ONNX,QDA,1217
+442,2024-09-18 05:15:41,/artifacts/run_232/model.pkl,Monitoring,ONNX,LDA,232
+458,2024-09-18 06:48:46,/artifacts/run_1399/weights.h5,Evaluation,ONNX,Gradient Boosting,1399
+465,2024-09-18 07:31:56,/artifacts/run_167/weights.h5,Evaluation,ONNX,Gradient Boosting,167
+475,2024-09-18 08:02:52,/artifacts/run_538/model.pkl,Monitoring,ONNX,K-Nearest Neighbors,538
+485,2024-09-18 09:06:40,/artifacts/run_1319/model.pkl,Development,ONNX,Neural Network,1319
+491,2024-09-18 09:39:40,/artifacts/run_371/model.pkl,Deployment,ONNX,K-Nearest Neighbors,371
+496,2024-09-18 10:01:38,/artifacts/run_860/model.joblib,Development,ONNX,LDA,860
+512,2024-09-18 11:18:34,/artifacts/run_1293/model.onnx,Deployment,ONNX,Gaussian Mixture,1293
+515,2024-09-18 11:38:10,/artifacts/run_70/model.joblib,Monitoring,ONNX,QDA,70
+523,2024-09-18 12:13:33,/artifacts/run_156/model.pkl,Development,ONNX,Decision Tree,156
+535,2024-09-18 13:20:30,/artifacts/run_1326/model.joblib,Evaluation,ONNX,Random Forest,1326
+549,2024-09-18 14:59:12,/artifacts/run_1190/weights.h5,Development,ONNX,QDA,1190
+552,2024-09-18 15:14:52,/artifacts/run_923/weights.h5,Monitoring,ONNX,Support Vector Machine,923
+563,2024-09-18 16:00:38,/artifacts/run_955/model.joblib,Monitoring,ONNX,Random Forest,955
+572,2024-09-18 16:41:13,/artifacts/run_1277/model.onnx,Deployment,ONNX,CatBoost,1277
+583,2024-09-18 17:32:56,/artifacts/run_190/model.joblib,Evaluation,ONNX,QDA,190
+593,2024-09-18 18:17:04,/artifacts/run_256/model.pkl,Development,ONNX,XGBoost,256
+600,2024-09-18 18:50:23,/artifacts/run_57/model.pkl,Evaluation,ONNX,LDA,57
+605,2024-09-18 19:20:32,/artifacts/run_1199/model.joblib,Monitoring,ONNX,KMeans,1199
+621,2024-09-18 20:34:08,/artifacts/run_1460/model.onnx,Monitoring,ONNX,Random Forest,1460
+630,2024-09-18 21:13:51,/artifacts/run_904/weights.h5,Evaluation,ONNX,Gradient Boosting,904
+636,2024-09-18 21:44:19,/artifacts/run_1214/model.pkl,Evaluation,ONNX,Gaussian Mixture,1214
+646,2024-09-18 22:59:26,/artifacts/run_49/model.joblib,Monitoring,ONNX,LightGBM,49
+650,2024-09-18 23:22:45,/artifacts/run_1238/model.onnx,Development,ONNX,Random Forest,1238
+663,2024-09-19 00:35:17,/artifacts/run_24/model.onnx,Evaluation,ONNX,K-Nearest Neighbors,24
+675,2024-09-19 01:36:57,/artifacts/run_1010/model.joblib,Monitoring,ONNX,Logistic Regression,1010
+680,2024-09-19 02:09:44,/artifacts/run_12/model.joblib,Deployment,ONNX,LDA,12
+688,2024-09-19 02:59:24,/artifacts/run_67/model.onnx,Monitoring,ONNX,Random Forest,67
+699,2024-09-19 03:57:04,/artifacts/run_413/weights.h5,Monitoring,ONNX,QDA,413
+710,2024-09-19 05:13:12,/artifacts/run_1008/model.joblib,Deployment,ONNX,Decision Tree,1008
+717,2024-09-19 05:44:57,/artifacts/run_1385/weights.h5,Monitoring,ONNX,LightGBM,1385
+722,2024-09-19 06:14:27,/artifacts/run_823/model.onnx,Deployment,ONNX,Decision Tree,823
+733,2024-09-19 07:11:47,/artifacts/run_1039/model.joblib,Development,ONNX,Logistic Regression,1039
+745,2024-09-19 08:14:31,/artifacts/run_1045/weights.h5,Monitoring,ONNX,LDA,1045
+750,2024-09-19 08:47:04,/artifacts/run_1366/model.joblib,Deployment,ONNX,Random Forest,1366
+760,2024-09-19 09:49:30,/artifacts/run_829/model.onnx,Development,ONNX,K-Nearest Neighbors,829
+771,2024-09-19 10:46:01,/artifacts/run_547/weights.h5,Evaluation,ONNX,KMeans,547
+783,2024-09-19 12:06:20,/artifacts/run_285/model.pkl,Monitoring,ONNX,Gaussian Mixture,285
+785,2024-09-19 12:15:17,/artifacts/run_1167/model.pkl,Development,ONNX,Gradient Boosting,1167
+799,2024-09-19 13:37:29,/artifacts/run_903/weights.h5,Development,ONNX,QDA,903
+807,2024-09-19 14:09:53,/artifacts/run_762/weights.h5,Monitoring,ONNX,Support Vector Machine,762
+818,2024-09-19 15:13:30,/artifacts/run_1448/model.pkl,Development,ONNX,Logistic Regression,1448
+827,2024-09-19 16:04:52,/artifacts/run_698/model.pkl,Deployment,ONNX,QDA,698
+834,2024-09-19 16:41:01,/artifacts/run_1044/model.joblib,Deployment,ONNX,Neural Network,1044
+842,2024-09-19 17:13:04,/artifacts/run_1237/weights.h5,Evaluation,ONNX,LDA,1237
+848,2024-09-19 17:46:42,/artifacts/run_739/model.onnx,Evaluation,ONNX,Gaussian Mixture,739
+859,2024-09-19 18:56:44,/artifacts/run_1253/weights.h5,Evaluation,ONNX,Gradient Boosting,1253
+870,2024-09-19 19:50:55,/artifacts/run_490/model.onnx,Monitoring,ONNX,Neural Network,490
+878,2024-09-19 20:39:03,/artifacts/run_607/model.joblib,Development,ONNX,K-Nearest Neighbors,607
+891,2024-09-19 21:52:43,/artifacts/run_1325/model.joblib,Deployment,ONNX,Support Vector Machine,1325
+895,2024-09-19 22:06:30,/artifacts/run_986/model.onnx,Monitoring,ONNX,LightGBM,986
+903,2024-09-19 22:40:00,/artifacts/run_1109/weights.h5,Deployment,ONNX,LDA,1109
+911,2024-09-19 23:22:51,/artifacts/run_255/model.joblib,Evaluation,ONNX,KMeans,255
+924,2024-09-20 00:35:29,/artifacts/run_705/model.onnx,Evaluation,ONNX,LightGBM,705
+931,2024-09-20 01:09:37,/artifacts/run_1208/model.joblib,Monitoring,ONNX,Gradient Boosting,1208
+938,2024-09-20 01:47:01,/artifacts/run_360/model.pkl,Deployment,ONNX,Decision Tree,360
+949,2024-09-20 02:51:57,/artifacts/run_1397/model.pkl,Evaluation,ONNX,K-Nearest Neighbors,1397
+962,2024-09-20 04:06:09,/artifacts/run_1022/model.joblib,Monitoring,ONNX,CatBoost,1022
+965,2024-09-20 04:28:05,/artifacts/run_966/model.onnx,Monitoring,ONNX,Naive Bayes,966
+974,2024-09-20 05:24:11,/artifacts/run_528/model.joblib,Deployment,ONNX,LightGBM,528
+987,2024-09-20 06:38:40,/artifacts/run_414/weights.h5,Monitoring,ONNX,Support Vector Machine,414
+998,2024-09-20 07:31:19,/artifacts/run_891/weights.h5,Evaluation,ONNX,Support Vector Machine,891
+3,2024-09-16 11:54:49,/artifacts/run_1144/model.joblib,Deployment,PyTorch,Decision Tree,1144
+10,2024-09-16 12:35:45,/artifacts/run_738/model.onnx,Deployment,PyTorch,CatBoost,738
+23,2024-09-16 13:57:59,/artifacts/run_310/weights.h5,Evaluation,PyTorch,Gradient Boosting,310
+31,2024-09-16 14:35:38,/artifacts/run_861/model.pkl,Evaluation,PyTorch,LightGBM,861
+44,2024-09-16 15:51:21,/artifacts/run_1467/weights.h5,Development,PyTorch,XGBoost,1467
+53,2024-09-16 17:00:14,/artifacts/run_761/model.onnx,Evaluation,PyTorch,Neural Network,761
+60,2024-09-16 17:34:17,/artifacts/run_114/model.joblib,Evaluation,PyTorch,CatBoost,114
+65,2024-09-16 17:56:14,/artifacts/run_612/model.pkl,Evaluation,PyTorch,Logistic Regression,612
+75,2024-09-16 18:50:12,/artifacts/run_999/model.joblib,Monitoring,PyTorch,K-Nearest Neighbors,999
+87,2024-09-16 19:49:28,/artifacts/run_1225/weights.h5,Deployment,PyTorch,LDA,1225
+99,2024-09-16 21:03:46,/artifacts/run_849/weights.h5,Deployment,PyTorch,LightGBM,849
+108,2024-09-16 21:55:39,/artifacts/run_1262/model.joblib,Deployment,PyTorch,Neural Network,1262
+117,2024-09-16 23:07:57,/artifacts/run_1495/weights.h5,Deployment,PyTorch,DBSCAN,1495
+120,2024-09-16 23:24:34,/artifacts/run_326/weights.h5,Monitoring,PyTorch,LDA,326
+132,2024-09-17 00:37:37,/artifacts/run_807/model.joblib,Development,PyTorch,Random Forest,807
+136,2024-09-17 00:57:19,/artifacts/run_241/model.onnx,Development,PyTorch,Neural Network,241
+145,2024-09-17 01:46:55,/artifacts/run_671/weights.h5,Evaluation,PyTorch,KMeans,671
+158,2024-09-17 02:48:46,/artifacts/run_1103/model.joblib,Development,PyTorch,LDA,1103
+166,2024-09-17 03:43:27,/artifacts/run_786/model.joblib,Evaluation,PyTorch,Support Vector Machine,786
+174,2024-09-17 04:33:49,/artifacts/run_1068/model.onnx,Development,PyTorch,Decision Tree,1068
+186,2024-09-17 05:38:01,/artifacts/run_867/model.onnx,Deployment,PyTorch,Support Vector Machine,867
+194,2024-09-17 06:19:32,/artifacts/run_176/model.joblib,Evaluation,PyTorch,Neural Network,176
+205,2024-09-17 07:13:13,/artifacts/run_938/weights.h5,Development,PyTorch,LightGBM,938
+208,2024-09-17 07:25:45,/artifacts/run_1294/model.pkl,Monitoring,PyTorch,DBSCAN,1294
+217,2024-09-17 08:31:19,/artifacts/run_941/model.onnx,Monitoring,PyTorch,LDA,941
+233,2024-09-17 10:02:21,/artifacts/run_1440/model.pkl,Development,PyTorch,DBSCAN,1440
+242,2024-09-17 10:47:53,/artifacts/run_1457/model.joblib,Evaluation,PyTorch,Decision Tree,1457
+248,2024-09-17 11:22:55,/artifacts/run_355/model.onnx,Deployment,PyTorch,Naive Bayes,355
+259,2024-09-17 12:30:41,/artifacts/run_888/weights.h5,Deployment,PyTorch,Naive Bayes,888
+265,2024-09-17 13:09:37,/artifacts/run_249/model.joblib,Monitoring,PyTorch,Decision Tree,249
+271,2024-09-17 13:47:30,/artifacts/run_1165/weights.h5,Deployment,PyTorch,KMeans,1165
+280,2024-09-17 14:30:09,/artifacts/run_661/weights.h5,Monitoring,PyTorch,Random Forest,661
+294,2024-09-17 15:49:08,/artifacts/run_1359/model.onnx,Deployment,PyTorch,DBSCAN,1359
+302,2024-09-17 16:24:52,/artifacts/run_345/model.joblib,Deployment,PyTorch,KMeans,345
+310,2024-09-17 17:06:39,/artifacts/run_257/weights.h5,Development,PyTorch,XGBoost,257
+316,2024-09-17 17:34:20,/artifacts/run_1463/model.pkl,Development,PyTorch,Neural Network,1463
+325,2024-09-17 18:27:39,/artifacts/run_1458/model.joblib,Development,PyTorch,QDA,1458
+342,2024-09-17 20:03:36,/artifacts/run_560/weights.h5,Development,PyTorch,K-Nearest Neighbors,560
+349,2024-09-17 20:34:05,/artifacts/run_1261/weights.h5,Monitoring,PyTorch,DBSCAN,1261
+354,2024-09-17 20:59:41,/artifacts/run_742/model.onnx,Deployment,PyTorch,Gaussian Mixture,742
+369,2024-09-17 22:25:18,/artifacts/run_987/model.pkl,Evaluation,PyTorch,Neural Network,987
+378,2024-09-17 23:11:33,/artifacts/run_1170/model.onnx,Evaluation,PyTorch,Gaussian Mixture,1170
+384,2024-09-17 23:40:23,/artifacts/run_799/model.pkl,Monitoring,PyTorch,Support Vector Machine,799
+389,2024-09-18 00:12:17,/artifacts/run_872/model.joblib,Development,PyTorch,KMeans,872
+399,2024-09-18 01:12:36,/artifacts/run_1024/weights.h5,Monitoring,PyTorch,DBSCAN,1024
+409,2024-09-18 02:20:42,/artifacts/run_22/weights.h5,Development,PyTorch,CatBoost,22
+415,2024-09-18 02:55:02,/artifacts/run_217/model.pkl,Development,PyTorch,DBSCAN,217
+432,2024-09-18 04:06:57,/artifacts/run_364/model.joblib,Deployment,PyTorch,XGBoost,364
+434,2024-09-18 04:19:51,/artifacts/run_368/model.onnx,Development,PyTorch,Neural Network,368
+446,2024-09-18 05:38:53,/artifacts/run_990/model.pkl,Evaluation,PyTorch,CatBoost,990
+457,2024-09-18 06:46:07,/artifacts/run_392/model.joblib,Deployment,PyTorch,LightGBM,392
+460,2024-09-18 06:57:53,/artifacts/run_831/weights.h5,Development,PyTorch,Neural Network,831
+470,2024-09-18 07:43:09,/artifacts/run_691/model.joblib,Deployment,PyTorch,Logistic Regression,691
+480,2024-09-18 08:29:20,/artifacts/run_301/weights.h5,Evaluation,PyTorch,Decision Tree,301
+490,2024-09-18 09:36:11,/artifacts/run_157/model.pkl,Development,PyTorch,Random Forest,157
+500,2024-09-18 10:27:31,/artifacts/run_1179/weights.h5,Deployment,PyTorch,XGBoost,1179
+509,2024-09-18 11:12:19,/artifacts/run_638/model.onnx,Monitoring,PyTorch,LightGBM,638
+519,2024-09-18 11:59:33,/artifacts/run_1098/model.joblib,Evaluation,PyTorch,Logistic Regression,1098
+529,2024-09-18 12:51:34,/artifacts/run_863/model.pkl,Development,PyTorch,KMeans,863
+539,2024-09-18 13:46:40,/artifacts/run_774/model.onnx,Evaluation,PyTorch,LDA,774
+548,2024-09-18 14:51:08,/artifacts/run_554/model.pkl,Development,PyTorch,K-Nearest Neighbors,554
+556,2024-09-18 15:26:00,/artifacts/run_1017/model.pkl,Deployment,PyTorch,Logistic Regression,1017
+567,2024-09-18 16:15:46,/artifacts/run_756/model.pkl,Deployment,PyTorch,Gaussian Mixture,756
+569,2024-09-18 16:19:35,/artifacts/run_980/model.onnx,Monitoring,PyTorch,LDA,980
+582,2024-09-18 17:27:51,/artifacts/run_964/weights.h5,Deployment,PyTorch,K-Nearest Neighbors,964
+592,2024-09-18 18:13:00,/artifacts/run_1203/model.pkl,Monitoring,PyTorch,LDA,1203
+595,2024-09-18 18:20:23,/artifacts/run_69/weights.h5,Monitoring,PyTorch,Support Vector Machine,69
+609,2024-09-18 19:31:11,/artifacts/run_539/model.onnx,Monitoring,PyTorch,LDA,539
+620,2024-09-18 20:32:39,/artifacts/run_328/model.onnx,Development,PyTorch,Support Vector Machine,328
+627,2024-09-18 20:57:36,/artifacts/run_772/weights.h5,Development,PyTorch,Support Vector Machine,772
+639,2024-09-18 22:11:56,/artifacts/run_777/weights.h5,Monitoring,PyTorch,KMeans,777
+645,2024-09-18 22:55:53,/artifacts/run_496/model.joblib,Evaluation,PyTorch,Naive Bayes,496
+652,2024-09-18 23:32:47,/artifacts/run_864/model.pkl,Monitoring,PyTorch,K-Nearest Neighbors,864
+660,2024-09-19 00:16:06,/artifacts/run_1066/model.onnx,Development,PyTorch,Random Forest,1066
+670,2024-09-19 01:11:21,/artifacts/run_1138/model.onnx,Development,PyTorch,LightGBM,1138
+679,2024-09-19 02:04:02,/artifacts/run_140/weights.h5,Evaluation,PyTorch,Support Vector Machine,140
+685,2024-09-19 02:42:13,/artifacts/run_605/weights.h5,Development,PyTorch,Gaussian Mixture,605
+702,2024-09-19 04:19:52,/artifacts/run_564/model.joblib,Evaluation,PyTorch,Decision Tree,564
+703,2024-09-19 04:25:37,/artifacts/run_299/model.pkl,Monitoring,PyTorch,LightGBM,299
+716,2024-09-19 05:42:24,/artifacts/run_262/model.pkl,Evaluation,PyTorch,Naive Bayes,262
+726,2024-09-19 06:39:24,/artifacts/run_1265/weights.h5,Evaluation,PyTorch,KMeans,1265
+737,2024-09-19 07:31:27,/artifacts/run_1131/weights.h5,Development,PyTorch,KMeans,1131
+747,2024-09-19 08:31:23,/artifacts/run_969/model.joblib,Development,PyTorch,XGBoost,969
+754,2024-09-19 09:07:19,/artifacts/run_701/model.onnx,Monitoring,PyTorch,DBSCAN,701
+757,2024-09-19 09:29:28,/artifacts/run_634/model.onnx,Deployment,PyTorch,Logistic Regression,634
+766,2024-09-19 10:24:04,/artifacts/run_586/model.onnx,Evaluation,PyTorch,Naive Bayes,586
+778,2024-09-19 11:37:59,/artifacts/run_583/weights.h5,Development,PyTorch,Logistic Regression,583
+784,2024-09-19 12:12:05,/artifacts/run_196/model.onnx,Deployment,PyTorch,Random Forest,196
+794,2024-09-19 13:07:25,/artifacts/run_1127/model.joblib,Monitoring,PyTorch,Random Forest,1127
+806,2024-09-19 14:07:35,/artifacts/run_767/weights.h5,Evaluation,PyTorch,QDA,767
+811,2024-09-19 14:34:00,/artifacts/run_776/weights.h5,Deployment,PyTorch,XGBoost,776
+820,2024-09-19 15:26:29,/artifacts/run_835/model.joblib,Evaluation,PyTorch,CatBoost,835
+833,2024-09-19 16:34:45,/artifacts/run_1349/weights.h5,Development,PyTorch,Logistic Regression,1349
+846,2024-09-19 17:33:02,/artifacts/run_556/model.joblib,Development,PyTorch,CatBoost,556
+852,2024-09-19 18:06:38,/artifacts/run_1364/weights.h5,Deployment,PyTorch,CatBoost,1364
+861,2024-09-19 19:02:17,/artifacts/run_909/weights.h5,Development,PyTorch,Random Forest,909
+865,2024-09-19 19:24:29,/artifacts/run_147/model.onnx,Monitoring,PyTorch,QDA,147
+877,2024-09-19 20:31:31,/artifacts/run_391/model.joblib,Deployment,PyTorch,DBSCAN,391
+886,2024-09-19 21:29:06,/artifacts/run_473/model.onnx,Development,PyTorch,LDA,473
+899,2024-09-19 22:19:02,/artifacts/run_1202/model.joblib,Development,PyTorch,CatBoost,1202
+909,2024-09-19 23:14:51,/artifacts/run_631/weights.h5,Development,PyTorch,Gradient Boosting,631
+915,2024-09-19 23:53:23,/artifacts/run_1210/model.pkl,Development,PyTorch,Naive Bayes,1210
+921,2024-09-20 00:22:12,/artifacts/run_991/model.onnx,Monitoring,PyTorch,Gradient Boosting,991
+935,2024-09-20 01:32:03,/artifacts/run_645/weights.h5,Evaluation,PyTorch,Logistic Regression,645
+944,2024-09-20 02:23:55,/artifacts/run_873/weights.h5,Monitoring,PyTorch,Naive Bayes,873
+953,2024-09-20 03:11:04,/artifacts/run_290/model.onnx,Monitoring,PyTorch,LightGBM,290
+956,2024-09-20 03:23:50,/artifacts/run_420/model.joblib,Development,PyTorch,CatBoost,420
+964,2024-09-20 04:21:05,/artifacts/run_900/model.pkl,Development,PyTorch,Neural Network,900
+977,2024-09-20 05:41:51,/artifacts/run_354/model.pkl,Development,PyTorch,Random Forest,354
+990,2024-09-20 06:54:49,/artifacts/run_927/weights.h5,Deployment,PyTorch,Gradient Boosting,927
+993,2024-09-20 07:08:40,/artifacts/run_1311/weights.h5,Evaluation,PyTorch,LDA,1311
+6,2024-09-16 12:13:47,/artifacts/run_1345/weights.h5,Deployment,Statsmodels,Neural Network,1345
+13,2024-09-16 12:59:23,/artifacts/run_898/weights.h5,Evaluation,Statsmodels,DBSCAN,898
+22,2024-09-16 13:53:53,/artifacts/run_814/model.pkl,Monitoring,Statsmodels,XGBoost,814
+29,2024-09-16 14:27:39,/artifacts/run_142/model.onnx,Development,Statsmodels,Logistic Regression,142
+38,2024-09-16 15:19:44,/artifacts/run_1060/model.pkl,Evaluation,Statsmodels,Support Vector Machine,1060
+52,2024-09-16 16:56:52,/artifacts/run_570/weights.h5,Evaluation,Statsmodels,XGBoost,570
+59,2024-09-16 17:31:24,/artifacts/run_87/model.joblib,Monitoring,Statsmodels,LightGBM,87
+68,2024-09-16 18:07:52,/artifacts/run_848/weights.h5,Development,Statsmodels,Decision Tree,848
+74,2024-09-16 18:48:37,/artifacts/run_14/model.onnx,Evaluation,Statsmodels,Naive Bayes,14
+82,2024-09-16 19:24:50,/artifacts/run_237/model.pkl,Evaluation,Statsmodels,Support Vector Machine,237
+93,2024-09-16 20:25:48,/artifacts/run_522/model.joblib,Evaluation,Statsmodels,Gaussian Mixture,522
+107,2024-09-16 21:45:48,/artifacts/run_347/model.pkl,Monitoring,Statsmodels,Gaussian Mixture,347
+111,2024-09-16 22:24:29,/artifacts/run_1351/model.joblib,Evaluation,Statsmodels,QDA,1351
+119,2024-09-16 23:21:22,/artifacts/run_983/model.pkl,Evaluation,Statsmodels,QDA,983
+130,2024-09-17 00:29:15,/artifacts/run_418/model.onnx,Monitoring,Statsmodels,Naive Bayes,418
+144,2024-09-17 01:42:10,/artifacts/run_711/model.joblib,Evaluation,Statsmodels,DBSCAN,711
+148,2024-09-17 02:02:38,/artifacts/run_940/model.onnx,Deployment,Statsmodels,K-Nearest Neighbors,940
+161,2024-09-17 03:07:02,/artifacts/run_189/weights.h5,Monitoring,Statsmodels,Gaussian Mixture,189
+164,2024-09-17 03:33:52,/artifacts/run_1295/model.pkl,Evaluation,Statsmodels,Naive Bayes,1295
+177,2024-09-17 04:55:18,/artifacts/run_131/model.joblib,Deployment,Statsmodels,Gradient Boosting,131
+184,2024-09-17 05:25:03,/artifacts/run_639/model.joblib,Deployment,Statsmodels,Decision Tree,639
+198,2024-09-17 06:33:38,/artifacts/run_713/weights.h5,Monitoring,Statsmodels,QDA,713
+200,2024-09-17 06:42:39,/artifacts/run_740/weights.h5,Deployment,Statsmodels,KMeans,740
+216,2024-09-17 08:27:20,/artifacts/run_1403/model.joblib,Deployment,Statsmodels,LightGBM,1403
+225,2024-09-17 09:22:39,/artifacts/run_373/model.joblib,Deployment,Statsmodels,QDA,373
+227,2024-09-17 09:27:35,/artifacts/run_960/model.pkl,Evaluation,Statsmodels,Logistic Regression,960
+241,2024-09-17 10:41:42,/artifacts/run_692/model.joblib,Deployment,Statsmodels,Random Forest,692
+251,2024-09-17 11:43:34,/artifacts/run_693/model.pkl,Deployment,Statsmodels,K-Nearest Neighbors,693
+253,2024-09-17 11:58:56,/artifacts/run_794/model.pkl,Evaluation,Statsmodels,DBSCAN,794
+268,2024-09-17 13:24:53,/artifacts/run_1248/model.pkl,Evaluation,Statsmodels,Support Vector Machine,1248
+278,2024-09-17 14:14:19,/artifacts/run_1080/model.joblib,Deployment,Statsmodels,Decision Tree,1080
+283,2024-09-17 14:46:59,/artifacts/run_53/model.onnx,Deployment,Statsmodels,KMeans,53
+293,2024-09-17 15:42:32,/artifacts/run_1371/model.pkl,Development,Statsmodels,Decision Tree,1371
+301,2024-09-17 16:23:18,/artifacts/run_1477/weights.h5,Development,Statsmodels,CatBoost,1477
+313,2024-09-17 17:16:17,/artifacts/run_399/model.pkl,Evaluation,Statsmodels,Gaussian Mixture,399
+323,2024-09-17 18:18:28,/artifacts/run_289/model.joblib,Deployment,Statsmodels,KMeans,289
+333,2024-09-17 19:18:10,/artifacts/run_1468/weights.h5,Development,Statsmodels,LDA,1468
+341,2024-09-17 20:00:50,/artifacts/run_1451/model.onnx,Deployment,Statsmodels,KMeans,1451
+348,2024-09-17 20:31:58,/artifacts/run_198/model.onnx,Deployment,Statsmodels,LDA,198
+358,2024-09-17 21:22:50,/artifacts/run_245/weights.h5,Evaluation,Statsmodels,Decision Tree,245
+368,2024-09-17 22:16:53,/artifacts/run_1085/model.joblib,Deployment,Statsmodels,DBSCAN,1085
+373,2024-09-17 22:44:52,/artifacts/run_1000/model.joblib,Development,Statsmodels,QDA,1000
+383,2024-09-17 23:37:44,/artifacts/run_348/weights.h5,Development,Statsmodels,CatBoost,348
+388,2024-09-18 00:04:17,/artifacts/run_665/model.onnx,Deployment,Statsmodels,Decision Tree,665
+398,2024-09-18 01:06:00,/artifacts/run_1041/model.onnx,Evaluation,Statsmodels,CatBoost,1041
+408,2024-09-18 02:11:33,/artifacts/run_1282/model.onnx,Monitoring,Statsmodels,Decision Tree,1282
+419,2024-09-18 03:16:21,/artifacts/run_686/model.pkl,Deployment,Statsmodels,CatBoost,686
+430,2024-09-18 04:01:20,/artifacts/run_1200/model.pkl,Evaluation,Statsmodels,K-Nearest Neighbors,1200
+437,2024-09-18 04:39:05,/artifacts/run_1445/model.joblib,Development,Statsmodels,Support Vector Machine,1445
+445,2024-09-18 05:34:33,/artifacts/run_194/model.onnx,Development,Statsmodels,LightGBM,194
+455,2024-09-18 06:34:56,/artifacts/run_314/model.pkl,Development,Statsmodels,Support Vector Machine,314
+467,2024-09-18 07:35:13,/artifacts/run_1124/model.joblib,Deployment,Statsmodels,Neural Network,1124
+473,2024-09-18 07:55:48,/artifacts/run_288/weights.h5,Deployment,Statsmodels,KMeans,288
+483,2024-09-18 08:50:12,/artifacts/run_1163/model.pkl,Development,Statsmodels,CatBoost,1163
+488,2024-09-18 09:25:07,/artifacts/run_721/model.pkl,Deployment,Statsmodels,Logistic Regression,721
+503,2024-09-18 10:34:58,/artifacts/run_1012/model.pkl,Evaluation,Statsmodels,Neural Network,1012
+513,2024-09-18 11:27:49,/artifacts/run_1224/model.joblib,Development,Statsmodels,KMeans,1224
+522,2024-09-18 12:12:02,/artifacts/run_1320/model.pkl,Deployment,Statsmodels,Neural Network,1320
+524,2024-09-18 12:22:15,/artifacts/run_1037/model.joblib,Evaluation,Statsmodels,K-Nearest Neighbors,1037
+537,2024-09-18 13:31:37,/artifacts/run_1030/model.joblib,Development,Statsmodels,Gaussian Mixture,1030
+546,2024-09-18 14:33:25,/artifacts/run_1337/model.onnx,Evaluation,Statsmodels,Neural Network,1337
+550,2024-09-18 15:08:17,/artifacts/run_791/weights.h5,Deployment,Statsmodels,Decision Tree,791
+566,2024-09-18 16:11:03,/artifacts/run_959/model.pkl,Development,Statsmodels,Decision Tree,959
+568,2024-09-18 16:17:44,/artifacts/run_609/model.joblib,Evaluation,Statsmodels,LightGBM,609
+585,2024-09-18 17:43:00,/artifacts/run_474/model.onnx,Development,Statsmodels,Gradient Boosting,474
+586,2024-09-18 17:49:12,/artifacts/run_1079/weights.h5,Deployment,Statsmodels,Decision Tree,1079
+603,2024-09-18 19:13:18,/artifacts/run_1395/weights.h5,Development,Statsmodels,CatBoost,1395
+612,2024-09-18 19:56:58,/artifacts/run_1120/model.onnx,Deployment,Statsmodels,Naive Bayes,1120
+614,2024-09-18 20:05:12,/artifacts/run_1231/weights.h5,Deployment,Statsmodels,KMeans,1231
+626,2024-09-18 20:55:37,/artifacts/run_182/model.pkl,Monitoring,Statsmodels,Logistic Regression,182
+633,2024-09-18 21:24:57,/artifacts/run_408/weights.h5,Monitoring,Statsmodels,Random Forest,408
+648,2024-09-18 23:11:39,/artifacts/run_870/model.joblib,Development,Statsmodels,LDA,870
+651,2024-09-18 23:27:18,/artifacts/run_649/model.joblib,Evaluation,Statsmodels,DBSCAN,649
+659,2024-09-19 00:09:16,/artifacts/run_1374/model.joblib,Evaluation,Statsmodels,CatBoost,1374
+668,2024-09-19 01:03:19,/artifacts/run_346/model.pkl,Evaluation,Statsmodels,Decision Tree,346
+677,2024-09-19 01:53:51,/artifacts/run_566/model.joblib,Development,Statsmodels,Decision Tree,566
+689,2024-09-19 03:09:22,/artifacts/run_433/model.joblib,Development,Statsmodels,DBSCAN,433
+696,2024-09-19 03:32:07,/artifacts/run_1027/model.joblib,Evaluation,Statsmodels,XGBoost,1027
+711,2024-09-19 05:22:17,/artifacts/run_39/model.onnx,Monitoring,Statsmodels,DBSCAN,39
+719,2024-09-19 05:49:22,/artifacts/run_1279/weights.h5,Development,Statsmodels,KMeans,1279
+729,2024-09-19 06:49:38,/artifacts/run_1025/model.joblib,Deployment,Statsmodels,Support Vector Machine,1025
+731,2024-09-19 07:00:08,/artifacts/run_268/weights.h5,Monitoring,Statsmodels,Naive Bayes,268
+741,2024-09-19 07:58:49,/artifacts/run_688/model.onnx,Development,Statsmodels,CatBoost,688
+748,2024-09-19 08:33:46,/artifacts/run_1100/model.onnx,Evaluation,Statsmodels,Decision Tree,1100
+765,2024-09-19 10:18:55,/artifacts/run_159/model.joblib,Deployment,Statsmodels,Neural Network,159
+773,2024-09-19 11:02:45,/artifacts/run_737/model.joblib,Evaluation,Statsmodels,LightGBM,737
+777,2024-09-19 11:32:54,/artifacts/run_1246/model.joblib,Evaluation,Statsmodels,DBSCAN,1246
+787,2024-09-19 12:27:25,/artifacts/run_80/model.pkl,Monitoring,Statsmodels,LightGBM,80
+793,2024-09-19 12:58:59,/artifacts/run_133/model.joblib,Evaluation,Statsmodels,Support Vector Machine,133
+804,2024-09-19 13:58:12,/artifacts/run_35/model.joblib,Evaluation,Statsmodels,DBSCAN,35
+819,2024-09-19 15:18:43,/artifacts/run_1432/model.onnx,Monitoring,Statsmodels,XGBoost,1432
+823,2024-09-19 15:43:27,/artifacts/run_491/model.joblib,Development,Statsmodels,Gaussian Mixture,491
+836,2024-09-19 16:47:26,/artifacts/run_770/model.onnx,Monitoring,Statsmodels,XGBoost,770
+840,2024-09-19 17:07:56,/artifacts/run_1257/model.joblib,Evaluation,Statsmodels,Gradient Boosting,1257
+855,2024-09-19 18:27:41,/artifacts/run_1372/model.joblib,Monitoring,Statsmodels,Support Vector Machine,1372
+860,2024-09-19 18:59:54,/artifacts/run_1340/weights.h5,Monitoring,Statsmodels,Neural Network,1340
+868,2024-09-19 19:39:03,/artifacts/run_404/weights.h5,Evaluation,Statsmodels,Gradient Boosting,404
+875,2024-09-19 20:21:59,/artifacts/run_1129/model.pkl,Evaluation,Statsmodels,Random Forest,1129
+889,2024-09-19 21:48:47,/artifacts/run_1076/model.joblib,Monitoring,Statsmodels,DBSCAN,1076
+893,2024-09-19 22:01:24,/artifacts/run_271/model.pkl,Deployment,Statsmodels,Gaussian Mixture,271
+908,2024-09-19 23:07:00,/artifacts/run_1328/weights.h5,Evaluation,Statsmodels,Random Forest,1328
+913,2024-09-19 23:39:49,/artifacts/run_953/weights.h5,Monitoring,Statsmodels,Support Vector Machine,953
+925,2024-09-20 00:42:10,/artifacts/run_47/weights.h5,Monitoring,Statsmodels,LDA,47
+929,2024-09-20 00:57:07,/artifacts/run_54/model.pkl,Development,Statsmodels,K-Nearest Neighbors,54
+939,2024-09-20 01:53:14,/artifacts/run_1499/model.onnx,Development,Statsmodels,Gaussian Mixture,1499
+947,2024-09-20 02:44:19,/artifacts/run_1471/model.onnx,Deployment,Statsmodels,Neural Network,1471
+959,2024-09-20 03:44:19,/artifacts/run_1485/weights.h5,Evaluation,Statsmodels,Gaussian Mixture,1485
+971,2024-09-20 04:59:22,/artifacts/run_95/model.onnx,Monitoring,Statsmodels,Gradient Boosting,95
+980,2024-09-20 06:01:53,/artifacts/run_1126/model.joblib,Deployment,Statsmodels,CatBoost,1126
+984,2024-09-20 06:19:06,/artifacts/run_1273/model.pkl,Evaluation,Statsmodels,Neural Network,1273
+996,2024-09-20 07:21:44,/artifacts/run_273/model.pkl,Monitoring,Statsmodels,Decision Tree,273
+7,2024-09-16 12:22:27,/artifacts/run_1173/model.onnx,Development,TensorFlow,LDA,1173
+15,2024-09-16 13:12:15,/artifacts/run_468/weights.h5,Deployment,TensorFlow,Gaussian Mixture,468
+25,2024-09-16 14:06:32,/artifacts/run_454/weights.h5,Development,TensorFlow,Neural Network,454
+30,2024-09-16 14:28:49,/artifacts/run_1047/model.joblib,Monitoring,TensorFlow,Random Forest,1047
+39,2024-09-16 15:28:26,/artifacts/run_1488/model.joblib,Monitoring,TensorFlow,DBSCAN,1488
+46,2024-09-16 16:09:26,/artifacts/run_901/model.pkl,Deployment,TensorFlow,CatBoost,901
+62,2024-09-16 17:38:32,/artifacts/run_153/model.onnx,Monitoring,TensorFlow,Logistic Regression,153
+69,2024-09-16 18:15:52,/artifacts/run_1018/weights.h5,Development,TensorFlow,Gaussian Mixture,1018
+77,2024-09-16 18:58:20,/artifacts/run_871/model.onnx,Development,TensorFlow,Gradient Boosting,871
+86,2024-09-16 19:43:55,/artifacts/run_77/model.joblib,Development,TensorFlow,XGBoost,77
+95,2024-09-16 20:41:06,/artifacts/run_164/weights.h5,Development,TensorFlow,DBSCAN,164
+101,2024-09-16 21:18:50,/artifacts/run_563/weights.h5,Development,TensorFlow,LDA,563
+112,2024-09-16 22:33:05,/artifacts/run_85/model.joblib,Monitoring,TensorFlow,Support Vector Machine,85
+123,2024-09-16 23:43:02,/artifacts/run_307/model.pkl,Evaluation,TensorFlow,LightGBM,307
+131,2024-09-17 00:32:02,/artifacts/run_677/model.pkl,Deployment,TensorFlow,XGBoost,677
+138,2024-09-17 01:07:18,/artifacts/run_389/weights.h5,Evaluation,TensorFlow,Logistic Regression,389
+150,2024-09-17 02:14:24,/artifacts/run_1184/model.onnx,Evaluation,TensorFlow,Naive Bayes,1184
+162,2024-09-17 03:15:31,/artifacts/run_1260/model.joblib,Development,TensorFlow,QDA,1260
+165,2024-09-17 03:41:17,/artifacts/run_44/model.joblib,Monitoring,TensorFlow,Logistic Regression,44
+179,2024-09-17 05:00:14,/artifacts/run_1040/model.onnx,Monitoring,TensorFlow,Random Forest,1040
+189,2024-09-17 05:56:55,/artifacts/run_52/model.joblib,Deployment,TensorFlow,XGBoost,52
+193,2024-09-17 06:12:34,/artifacts/run_766/model.pkl,Development,TensorFlow,XGBoost,766
+204,2024-09-17 07:10:21,/artifacts/run_1396/model.pkl,Evaluation,TensorFlow,Decision Tree,1396
+210,2024-09-17 07:43:31,/artifacts/run_985/model.onnx,Deployment,TensorFlow,Neural Network,985
+220,2024-09-17 08:44:36,/artifacts/run_746/model.pkl,Deployment,TensorFlow,Naive Bayes,746
+228,2024-09-17 09:30:37,/artifacts/run_244/model.onnx,Development,TensorFlow,Gradient Boosting,244
+235,2024-09-17 10:08:41,/artifacts/run_1058/model.onnx,Evaluation,TensorFlow,Support Vector Machine,1058
+252,2024-09-17 11:51:23,/artifacts/run_1315/weights.h5,Development,TensorFlow,CatBoost,1315
+254,2024-09-17 12:04:54,/artifacts/run_1110/model.onnx,Monitoring,TensorFlow,Gradient Boosting,1110
+269,2024-09-17 13:33:17,/artifacts/run_1379/weights.h5,Monitoring,TensorFlow,DBSCAN,1379
+274,2024-09-17 13:57:10,/artifacts/run_1361/model.pkl,Monitoring,TensorFlow,Logistic Regression,1361
+284,2024-09-17 14:48:45,/artifacts/run_707/model.joblib,Development,TensorFlow,K-Nearest Neighbors,707
+296,2024-09-17 15:59:17,/artifacts/run_461/model.joblib,Monitoring,TensorFlow,QDA,461
+305,2024-09-17 16:34:26,/artifacts/run_618/model.pkl,Monitoring,TensorFlow,CatBoost,618
+315,2024-09-17 17:30:20,/artifacts/run_396/model.joblib,Deployment,TensorFlow,LightGBM,396
+319,2024-09-17 17:56:00,/artifacts/run_1062/model.joblib,Evaluation,TensorFlow,Logistic Regression,1062
+327,2024-09-17 18:43:55,/artifacts/run_604/model.pkl,Monitoring,TensorFlow,Decision Tree,604
+335,2024-09-17 19:33:10,/artifacts/run_63/weights.h5,Evaluation,TensorFlow,XGBoost,63
+351,2024-09-17 20:45:56,/artifacts/run_646/weights.h5,Development,TensorFlow,Neural Network,646
+353,2024-09-17 20:52:05,/artifacts/run_248/weights.h5,Monitoring,TensorFlow,K-Nearest Neighbors,248
+363,2024-09-17 21:42:05,/artifacts/run_1059/model.onnx,Deployment,TensorFlow,Naive Bayes,1059
+377,2024-09-17 23:07:52,/artifacts/run_1162/weights.h5,Deployment,TensorFlow,Decision Tree,1162
+387,2024-09-18 00:02:20,/artifacts/run_733/weights.h5,Evaluation,TensorFlow,Random Forest,733
+391,2024-09-18 00:21:03,/artifacts/run_305/model.onnx,Monitoring,TensorFlow,Gaussian Mixture,305
+401,2024-09-18 01:30:25,/artifacts/run_736/model.joblib,Monitoring,TensorFlow,QDA,736
+411,2024-09-18 02:34:45,/artifacts/run_231/model.joblib,Evaluation,TensorFlow,Gradient Boosting,231
+423,2024-09-18 03:28:37,/artifacts/run_679/model.onnx,Evaluation,TensorFlow,Gaussian Mixture,679
+431,2024-09-18 04:03:31,/artifacts/run_802/model.pkl,Monitoring,TensorFlow,LightGBM,802
+438,2024-09-18 04:44:45,/artifacts/run_647/model.pkl,Deployment,TensorFlow,Decision Tree,647
+448,2024-09-18 05:48:18,/artifacts/run_302/weights.h5,Deployment,TensorFlow,Gaussian Mixture,302
+456,2024-09-18 06:38:43,/artifacts/run_1132/model.onnx,Evaluation,TensorFlow,Naive Bayes,1132
+463,2024-09-18 07:17:51,/artifacts/run_122/model.onnx,Deployment,TensorFlow,K-Nearest Neighbors,122
+474,2024-09-18 07:56:54,/artifacts/run_1369/model.pkl,Development,TensorFlow,DBSCAN,1369
+484,2024-09-18 08:58:27,/artifacts/run_238/model.pkl,Evaluation,TensorFlow,Support Vector Machine,238
+489,2024-09-18 09:34:15,/artifacts/run_1107/model.joblib,Monitoring,TensorFlow,QDA,1107
+504,2024-09-18 10:39:59,/artifacts/run_1256/model.joblib,Deployment,TensorFlow,KMeans,1256
+508,2024-09-18 11:07:54,/artifacts/run_334/model.pkl,Evaluation,TensorFlow,Random Forest,334
+514,2024-09-18 11:36:26,/artifacts/run_765/model.onnx,Evaluation,TensorFlow,XGBoost,765
+528,2024-09-18 12:46:50,/artifacts/run_36/model.pkl,Evaluation,TensorFlow,Gradient Boosting,36
+533,2024-09-18 13:11:22,/artifacts/run_386/model.joblib,Deployment,TensorFlow,XGBoost,386
+547,2024-09-18 14:41:41,/artifacts/run_467/weights.h5,Deployment,TensorFlow,LDA,467
+551,2024-09-18 15:09:49,/artifacts/run_652/model.joblib,Evaluation,TensorFlow,Gradient Boosting,652
+560,2024-09-18 15:46:42,/artifacts/run_788/model.onnx,Monitoring,TensorFlow,DBSCAN,788
+571,2024-09-18 16:36:15,/artifacts/run_724/weights.h5,Development,TensorFlow,XGBoost,724
+578,2024-09-18 17:08:29,/artifacts/run_1318/model.joblib,Deployment,TensorFlow,Random Forest,1318
+588,2024-09-18 17:59:05,/artifacts/run_784/model.pkl,Evaluation,TensorFlow,CatBoost,784
+597,2024-09-18 18:30:40,/artifacts/run_651/model.pkl,Development,TensorFlow,Gradient Boosting,651
+604,2024-09-18 19:19:07,/artifacts/run_930/model.pkl,Deployment,TensorFlow,Random Forest,930
+616,2024-09-18 20:13:34,/artifacts/run_1223/model.pkl,Evaluation,TensorFlow,Neural Network,1223
+629,2024-09-18 21:11:56,/artifacts/run_699/model.pkl,Monitoring,TensorFlow,LightGBM,699
+635,2024-09-18 21:39:42,/artifacts/run_1207/model.joblib,Development,TensorFlow,K-Nearest Neighbors,1207
+641,2024-09-18 22:26:27,/artifacts/run_1430/model.onnx,Development,TensorFlow,XGBoost,1430
+655,2024-09-18 23:44:58,/artifacts/run_540/weights.h5,Evaluation,TensorFlow,QDA,540
+662,2024-09-19 00:27:13,/artifacts/run_485/model.pkl,Deployment,TensorFlow,DBSCAN,485
+673,2024-09-19 01:29:09,/artifacts/run_1476/weights.h5,Development,TensorFlow,KMeans,1476
+678,2024-09-19 01:55:07,/artifacts/run_1083/model.pkl,Monitoring,TensorFlow,LightGBM,1083
+693,2024-09-19 03:23:24,/artifacts/run_137/weights.h5,Deployment,TensorFlow,Support Vector Machine,137
+698,2024-09-19 03:48:01,/artifacts/run_1263/model.pkl,Development,TensorFlow,K-Nearest Neighbors,1263
+706,2024-09-19 04:53:12,/artifacts/run_465/weights.h5,Development,TensorFlow,Neural Network,465
+712,2024-09-19 05:24:49,/artifacts/run_460/model.onnx,Evaluation,TensorFlow,Gradient Boosting,460
+721,2024-09-19 06:05:31,/artifacts/run_678/model.joblib,Monitoring,TensorFlow,Gradient Boosting,678
+732,2024-09-19 07:02:12,/artifacts/run_720/model.onnx,Evaluation,TensorFlow,DBSCAN,720
+742,2024-09-19 08:02:18,/artifacts/run_480/model.pkl,Evaluation,TensorFlow,Support Vector Machine,480
+749,2024-09-19 08:42:31,/artifacts/run_415/model.joblib,Monitoring,TensorFlow,Gaussian Mixture,415
+759,2024-09-19 09:47:48,/artifacts/run_1347/weights.h5,Evaluation,TensorFlow,Decision Tree,1347
+769,2024-09-19 10:32:56,/artifacts/run_553/model.pkl,Development,TensorFlow,Gradient Boosting,553
+780,2024-09-19 11:47:02,/artifacts/run_466/weights.h5,Monitoring,TensorFlow,Naive Bayes,466
+789,2024-09-19 12:34:59,/artifacts/run_495/model.joblib,Monitoring,TensorFlow,DBSCAN,495
+796,2024-09-19 13:16:12,/artifacts/run_907/model.onnx,Development,TensorFlow,XGBoost,907
+805,2024-09-19 14:03:08,/artifacts/run_1439/model.pkl,Deployment,TensorFlow,Logistic Regression,1439
+814,2024-09-19 14:52:00,/artifacts/run_315/model.joblib,Evaluation,TensorFlow,CatBoost,315
+824,2024-09-19 15:48:06,/artifacts/run_1090/model.pkl,Evaluation,TensorFlow,Neural Network,1090
+829,2024-09-19 16:09:49,/artifacts/run_865/model.pkl,Monitoring,TensorFlow,Gradient Boosting,865
+841,2024-09-19 17:10:49,/artifacts/run_1313/model.joblib,Development,TensorFlow,QDA,1313
+847,2024-09-19 17:39:25,/artifacts/run_74/model.pkl,Monitoring,TensorFlow,KMeans,74
+864,2024-09-19 19:19:55,/artifacts/run_629/model.pkl,Deployment,TensorFlow,LightGBM,629
+869,2024-09-19 19:48:28,/artifacts/run_172/weights.h5,Evaluation,TensorFlow,LightGBM,172
+876,2024-09-19 20:25:41,/artifacts/run_725/weights.h5,Deployment,TensorFlow,KMeans,725
+890,2024-09-19 21:49:48,/artifacts/run_113/model.pkl,Development,TensorFlow,XGBoost,113
+894,2024-09-19 22:05:22,/artifacts/run_66/model.pkl,Development,TensorFlow,Random Forest,66
+902,2024-09-19 22:30:08,/artifacts/run_929/model.pkl,Development,TensorFlow,Logistic Regression,929
+918,2024-09-20 00:04:37,/artifacts/run_5/model.pkl,Development,TensorFlow,QDA,5
+920,2024-09-20 00:12:39,/artifacts/run_1362/weights.h5,Monitoring,TensorFlow,K-Nearest Neighbors,1362
+930,2024-09-20 00:59:51,/artifacts/run_429/model.pkl,Deployment,TensorFlow,LightGBM,429
+943,2024-09-20 02:22:44,/artifacts/run_155/model.joblib,Development,TensorFlow,KMeans,155
+948,2024-09-20 02:48:25,/artifacts/run_15/model.pkl,Evaluation,TensorFlow,Support Vector Machine,15
+961,2024-09-20 03:59:56,/artifacts/run_683/model.pkl,Evaluation,TensorFlow,XGBoost,683
+972,2024-09-20 05:05:50,/artifacts/run_435/model.joblib,Evaluation,TensorFlow,Decision Tree,435
+973,2024-09-20 05:14:45,/artifacts/run_402/model.joblib,Monitoring,TensorFlow,Gaussian Mixture,402
+986,2024-09-20 06:31:06,/artifacts/run_475/model.pkl,Evaluation,TensorFlow,XGBoost,475
+997,2024-09-20 07:27:50,/artifacts/run_1106/model.joblib,Development,TensorFlow,Gradient Boosting,1106
+2,2024-09-16 11:50:22,/artifacts/run_808/weights.h5,Development,XGBoost,Support Vector Machine,808
+18,2024-09-16 13:32:11,/artifacts/run_357/model.pkl,Deployment,XGBoost,Gaussian Mixture,357
+20,2024-09-16 13:39:41,/artifacts/run_714/weights.h5,Evaluation,XGBoost,Naive Bayes,714
+35,2024-09-16 15:00:18,/artifacts/run_363/weights.h5,Evaluation,XGBoost,Logistic Regression,363
+41,2024-09-16 15:40:09,/artifacts/run_606/model.pkl,Deployment,XGBoost,LDA,606
+50,2024-09-16 16:39:59,/artifacts/run_1219/model.pkl,Development,XGBoost,Random Forest,1219
+57,2024-09-16 17:14:58,/artifacts/run_1054/weights.h5,Deployment,XGBoost,Gradient Boosting,1054
+71,2024-09-16 18:35:01,/artifacts/run_116/model.onnx,Evaluation,XGBoost,LDA,116
+79,2024-09-16 19:12:44,/artifacts/run_43/model.joblib,Monitoring,XGBoost,DBSCAN,43
+89,2024-09-16 20:07:36,/artifacts/run_581/weights.h5,Development,XGBoost,CatBoost,581
+98,2024-09-16 20:54:03,/artifacts/run_34/weights.h5,Development,XGBoost,K-Nearest Neighbors,34
+103,2024-09-16 21:22:28,/artifacts/run_1236/weights.h5,Monitoring,XGBoost,CatBoost,1236
+114,2024-09-16 22:42:50,/artifacts/run_385/model.joblib,Deployment,XGBoost,XGBoost,385
+122,2024-09-16 23:38:14,/artifacts/run_1115/weights.h5,Deployment,XGBoost,Naive Bayes,1115
+127,2024-09-17 00:08:32,/artifacts/run_1119/weights.h5,Evaluation,XGBoost,Logistic Regression,1119
+140,2024-09-17 01:18:08,/artifacts/run_1344/model.pkl,Deployment,XGBoost,Support Vector Machine,1344
+149,2024-09-17 02:05:29,/artifacts/run_1011/model.joblib,Development,XGBoost,QDA,1011
+157,2024-09-17 02:45:15,/artifacts/run_847/model.onnx,Monitoring,XGBoost,Gaussian Mixture,847
+170,2024-09-17 04:04:48,/artifacts/run_1182/weights.h5,Monitoring,XGBoost,Gradient Boosting,1182
+173,2024-09-17 04:27:24,/artifacts/run_642/model.onnx,Deployment,XGBoost,Random Forest,642
+185,2024-09-17 05:32:06,/artifacts/run_61/weights.h5,Development,XGBoost,LightGBM,61
+196,2024-09-17 06:25:23,/artifacts/run_973/model.pkl,Deployment,XGBoost,Gaussian Mixture,973
+207,2024-09-17 07:19:49,/artifacts/run_792/model.joblib,Evaluation,XGBoost,LDA,792
+212,2024-09-17 07:57:19,/artifacts/run_882/weights.h5,Monitoring,XGBoost,Logistic Regression,882
+219,2024-09-17 08:42:49,/artifacts/run_529/model.onnx,Development,XGBoost,QDA,529
+232,2024-09-17 10:00:20,/artifacts/run_1111/model.pkl,Evaluation,XGBoost,KMeans,1111
+237,2024-09-17 10:21:31,/artifacts/run_108/weights.h5,Development,XGBoost,Gaussian Mixture,108
+247,2024-09-17 11:21:53,/artifacts/run_555/weights.h5,Evaluation,XGBoost,Neural Network,555
+258,2024-09-17 12:26:06,/artifacts/run_674/model.onnx,Development,XGBoost,Random Forest,674
+264,2024-09-17 13:06:39,/artifacts/run_1335/model.pkl,Deployment,XGBoost,Neural Network,1335
+279,2024-09-17 14:21:26,/artifacts/run_1334/model.onnx,Development,XGBoost,Gaussian Mixture,1334
+288,2024-09-17 15:11:40,/artifacts/run_1447/weights.h5,Development,XGBoost,Support Vector Machine,1447
+289,2024-09-17 15:12:42,/artifacts/run_603/model.joblib,Deployment,XGBoost,Neural Network,603
+304,2024-09-17 16:32:50,/artifacts/run_234/model.onnx,Monitoring,XGBoost,Logistic Regression,234
+309,2024-09-17 17:01:54,/artifacts/run_750/model.joblib,Deployment,XGBoost,DBSCAN,750
+324,2024-09-17 18:24:56,/artifacts/run_154/model.onnx,Evaluation,XGBoost,LightGBM,154
+329,2024-09-17 18:53:44,/artifacts/run_446/model.pkl,Deployment,XGBoost,DBSCAN,446
+339,2024-09-17 19:57:03,/artifacts/run_1164/model.pkl,Monitoring,XGBoost,QDA,1164
+346,2024-09-17 20:23:31,/artifacts/run_925/model.joblib,Evaluation,XGBoost,LightGBM,925
+356,2024-09-17 21:10:04,/artifacts/run_1101/model.joblib,Evaluation,XGBoost,QDA,1101
+362,2024-09-17 21:35:40,/artifacts/run_1373/model.joblib,Development,XGBoost,LDA,1373
+371,2024-09-17 22:35:16,/artifacts/run_211/model.pkl,Deployment,XGBoost,DBSCAN,211
+386,2024-09-17 23:56:32,/artifacts/run_65/model.onnx,Monitoring,XGBoost,LDA,65
+393,2024-09-18 00:32:35,/artifacts/run_971/model.onnx,Monitoring,XGBoost,Neural Network,971
+403,2024-09-18 01:36:40,/artifacts/run_689/model.onnx,Deployment,XGBoost,Random Forest,689
+413,2024-09-18 02:44:14,/artifacts/run_839/model.onnx,Evaluation,XGBoost,Gaussian Mixture,839
+417,2024-09-18 03:08:59,/artifacts/run_710/model.onnx,Monitoring,XGBoost,LDA,710
+427,2024-09-18 03:50:40,/artifacts/run_1096/model.onnx,Monitoring,XGBoost,QDA,1096
+440,2024-09-18 04:57:48,/artifacts/run_577/model.pkl,Monitoring,XGBoost,Gradient Boosting,577
+450,2024-09-18 06:00:58,/artifacts/run_105/model.onnx,Deployment,XGBoost,QDA,105
+452,2024-09-18 06:16:55,/artifacts/run_751/weights.h5,Monitoring,XGBoost,XGBoost,751
+468,2024-09-18 07:36:22,/artifacts/run_1436/model.onnx,Monitoring,XGBoost,LDA,1436
+469,2024-09-18 07:39:49,/artifacts/run_1266/weights.h5,Development,XGBoost,Naive Bayes,1266
+479,2024-09-18 08:24:15,/artifacts/run_551/model.pkl,Deployment,XGBoost,Support Vector Machine,551
+494,2024-09-18 09:46:56,/artifacts/run_637/model.pkl,Monitoring,XGBoost,Gaussian Mixture,637
+499,2024-09-18 10:18:00,/artifacts/run_950/weights.h5,Evaluation,XGBoost,K-Nearest Neighbors,950
+511,2024-09-18 11:17:28,/artifacts/run_967/model.joblib,Development,XGBoost,DBSCAN,967
+518,2024-09-18 11:55:31,/artifacts/run_178/model.pkl,Monitoring,XGBoost,LightGBM,178
+531,2024-09-18 12:59:17,/artifacts/run_441/weights.h5,Evaluation,XGBoost,LightGBM,441
+538,2024-09-18 13:37:05,/artifacts/run_1064/model.onnx,Deployment,XGBoost,Neural Network,1064
+543,2024-09-18 14:14:46,/artifacts/run_956/model.joblib,Monitoring,XGBoost,Gradient Boosting,956
+555,2024-09-18 15:24:01,/artifacts/run_68/model.joblib,Monitoring,XGBoost,LightGBM,68
+562,2024-09-18 15:58:45,/artifacts/run_1276/weights.h5,Evaluation,XGBoost,QDA,1276
+575,2024-09-18 16:58:57,/artifacts/run_425/model.pkl,Development,XGBoost,Naive Bayes,425
+581,2024-09-18 17:19:36,/artifacts/run_730/model.joblib,Development,XGBoost,Neural Network,730
+591,2024-09-18 18:09:40,/artifacts/run_513/model.joblib,Deployment,XGBoost,Gaussian Mixture,513
+599,2024-09-18 18:43:13,/artifacts/run_1450/model.pkl,Monitoring,XGBoost,Neural Network,1450
+608,2024-09-18 19:28:31,/artifacts/run_924/weights.h5,Evaluation,XGBoost,Gaussian Mixture,924
+619,2024-09-18 20:23:19,/artifacts/run_72/model.pkl,Deployment,XGBoost,QDA,72
+624,2024-09-18 20:47:54,/artifacts/run_858/weights.h5,Evaluation,XGBoost,XGBoost,858
+634,2024-09-18 21:34:55,/artifacts/run_422/model.onnx,Deployment,XGBoost,DBSCAN,422
+644,2024-09-18 22:46:11,/artifacts/run_1169/weights.h5,Deployment,XGBoost,Support Vector Machine,1169
+654,2024-09-18 23:39:16,/artifacts/run_228/model.joblib,Deployment,XGBoost,CatBoost,228
+666,2024-09-19 00:51:28,/artifacts/run_1400/model.joblib,Deployment,XGBoost,QDA,1400
+669,2024-09-19 01:05:58,/artifacts/run_1380/model.pkl,Monitoring,XGBoost,Gradient Boosting,1380
+683,2024-09-19 02:29:09,/artifacts/run_1135/weights.h5,Evaluation,XGBoost,Neural Network,1135
+687,2024-09-19 02:49:32,/artifacts/run_533/weights.h5,Evaluation,XGBoost,QDA,533
+697,2024-09-19 03:41:27,/artifacts/run_1006/model.onnx,Deployment,XGBoost,Neural Network,1006
+705,2024-09-19 04:44:13,/artifacts/run_1160/model.onnx,Deployment,XGBoost,Logistic Regression,1160
+715,2024-09-19 05:39:31,/artifacts/run_1348/model.joblib,Deployment,XGBoost,Random Forest,1348
+725,2024-09-19 06:32:24,/artifacts/run_548/model.pkl,Development,XGBoost,LDA,548
+736,2024-09-19 07:27:25,/artifacts/run_935/model.joblib,Deployment,XGBoost,K-Nearest Neighbors,935
+744,2024-09-19 08:09:14,/artifacts/run_177/model.pkl,Deployment,XGBoost,Logistic Regression,177
+753,2024-09-19 08:57:49,/artifacts/run_1444/model.onnx,Development,XGBoost,CatBoost,1444
+763,2024-09-19 10:04:01,/artifacts/run_1116/model.pkl,Deployment,XGBoost,XGBoost,1116
+774,2024-09-19 11:11:43,/artifacts/run_1243/model.onnx,Monitoring,XGBoost,QDA,1243
+782,2024-09-19 11:59:53,/artifacts/run_965/model.joblib,Evaluation,XGBoost,Decision Tree,965
+792,2024-09-19 12:49:28,/artifacts/run_1137/model.pkl,Evaluation,XGBoost,LDA,1137
+798,2024-09-19 13:32:41,/artifacts/run_992/model.onnx,Deployment,XGBoost,K-Nearest Neighbors,992
+810,2024-09-19 14:30:13,/artifacts/run_588/model.pkl,Evaluation,XGBoost,LightGBM,588
+813,2024-09-19 14:49:03,/artifacts/run_298/model.joblib,Development,XGBoost,Decision Tree,298
+826,2024-09-19 15:58:48,/artifacts/run_439/model.pkl,Monitoring,XGBoost,K-Nearest Neighbors,439
+832,2024-09-19 16:30:09,/artifacts/run_1267/model.pkl,Evaluation,XGBoost,Naive Bayes,1267
+845,2024-09-19 17:27:13,/artifacts/run_1368/model.joblib,Deployment,XGBoost,LightGBM,1368
+851,2024-09-19 18:01:01,/artifacts/run_708/model.onnx,Evaluation,XGBoost,K-Nearest Neighbors,708
+863,2024-09-19 19:14:20,/artifacts/run_387/model.onnx,Evaluation,XGBoost,DBSCAN,387
+873,2024-09-19 20:09:11,/artifacts/run_810/model.joblib,Development,XGBoost,Logistic Regression,810
+881,2024-09-19 20:57:51,/artifacts/run_1301/model.onnx,Monitoring,XGBoost,QDA,1301
+885,2024-09-19 21:23:54,/artifacts/run_448/model.onnx,Deployment,XGBoost,CatBoost,448
+898,2024-09-19 22:17:03,/artifacts/run_1146/model.pkl,Deployment,XGBoost,QDA,1146
+906,2024-09-19 22:55:33,/artifacts/run_1128/weights.h5,Deployment,XGBoost,Decision Tree,1128
+914,2024-09-19 23:48:25,/artifacts/run_933/weights.h5,Evaluation,XGBoost,Neural Network,933
+923,2024-09-20 00:29:26,/artifacts/run_902/model.onnx,Development,XGBoost,Gaussian Mixture,902
+934,2024-09-20 01:30:58,/artifacts/run_1414/model.joblib,Monitoring,XGBoost,XGBoost,1414
+937,2024-09-20 01:43:24,/artifacts/run_1449/model.joblib,Monitoring,XGBoost,CatBoost,1449
+952,2024-09-20 03:03:19,/artifacts/run_1226/model.pkl,Monitoring,XGBoost,DBSCAN,1226
+960,2024-09-20 03:53:52,/artifacts/run_1197/model.onnx,Development,XGBoost,LDA,1197
+968,2024-09-20 04:36:56,/artifacts/run_1308/weights.h5,Development,XGBoost,QDA,1308
+981,2024-09-20 06:05:54,/artifacts/run_365/model.pkl,Monitoring,XGBoost,KMeans,365
+985,2024-09-20 06:25:57,/artifacts/run_921/model.pkl,Development,XGBoost,K-Nearest Neighbors,921
+992,2024-09-20 07:07:26,/artifacts/run_187/model.pkl,Evaluation,XGBoost,LDA,187
+9,2024-09-16 12:28:04,/artifacts/run_1492/weights.h5,Evaluation,scikit-learn,Logistic Regression,1492
+14,2024-09-16 13:08:08,/artifacts/run_406/model.onnx,Monitoring,scikit-learn,K-Nearest Neighbors,406
+19,2024-09-16 13:36:21,/artifacts/run_1211/model.pkl,Development,scikit-learn,LDA,1211
+33,2024-09-16 14:45:29,/artifacts/run_809/model.joblib,Development,scikit-learn,QDA,809
+37,2024-09-16 15:17:04,/artifacts/run_1367/model.onnx,Development,scikit-learn,LightGBM,1367
+49,2024-09-16 16:34:45,/artifacts/run_532/model.joblib,Monitoring,scikit-learn,Support Vector Machine,532
+56,2024-09-16 17:11:01,/artifacts/run_1043/model.pkl,Monitoring,scikit-learn,Naive Bayes,1043
+67,2024-09-16 18:06:19,/artifacts/run_1084/weights.h5,Deployment,scikit-learn,CatBoost,1084
+76,2024-09-16 18:56:36,/artifacts/run_881/model.joblib,Deployment,scikit-learn,LightGBM,881
+84,2024-09-16 19:34:02,/artifacts/run_1456/model.pkl,Development,scikit-learn,K-Nearest Neighbors,1456
+94,2024-09-16 20:31:33,/artifacts/run_412/weights.h5,Monitoring,scikit-learn,Neural Network,412
+100,2024-09-16 21:10:14,/artifacts/run_934/model.pkl,Monitoring,scikit-learn,XGBoost,934
+110,2024-09-16 22:14:48,/artifacts/run_21/model.joblib,Deployment,scikit-learn,Logistic Regression,21
+121,2024-09-16 23:32:10,/artifacts/run_1077/model.pkl,Development,scikit-learn,Random Forest,1077
+134,2024-09-17 00:52:24,/artifacts/run_141/model.pkl,Evaluation,scikit-learn,Gaussian Mixture,141
+137,2024-09-17 01:02:50,/artifacts/run_663/model.pkl,Development,scikit-learn,Decision Tree,663
+153,2024-09-17 02:33:05,/artifacts/run_270/weights.h5,Monitoring,scikit-learn,LightGBM,270
+155,2024-09-17 02:37:56,/artifacts/run_894/model.joblib,Development,scikit-learn,DBSCAN,894
+168,2024-09-17 03:54:25,/artifacts/run_2/weights.h5,Development,scikit-learn,CatBoost,2
+178,2024-09-17 04:57:47,/artifacts/run_1446/weights.h5,Evaluation,scikit-learn,QDA,1446
+183,2024-09-17 05:16:01,/artifacts/run_1222/weights.h5,Evaluation,scikit-learn,CatBoost,1222
+191,2024-09-17 06:06:00,/artifacts/run_481/model.onnx,Monitoring,scikit-learn,Naive Bayes,481
+202,2024-09-17 06:55:48,/artifacts/run_1271/model.joblib,Development,scikit-learn,Logistic Regression,1271
+209,2024-09-17 07:34:00,/artifacts/run_499/model.joblib,Development,scikit-learn,CatBoost,499
+218,2024-09-17 08:41:18,/artifacts/run_366/model.onnx,Evaluation,scikit-learn,DBSCAN,366
+231,2024-09-17 09:52:28,/artifacts/run_685/model.onnx,Monitoring,scikit-learn,Decision Tree,685
+243,2024-09-17 10:56:18,/artifacts/run_97/model.joblib,Monitoring,scikit-learn,KMeans,97
+246,2024-09-17 11:12:24,/artifacts/run_760/model.pkl,Monitoring,scikit-learn,QDA,760
+257,2024-09-17 12:22:16,/artifacts/run_868/model.pkl,Monitoring,scikit-learn,QDA,868
+263,2024-09-17 12:59:09,/artifacts/run_667/weights.h5,Monitoring,scikit-learn,LDA,667
+277,2024-09-17 14:10:11,/artifacts/run_977/model.pkl,Evaluation,scikit-learn,XGBoost,977
+286,2024-09-17 15:03:04,/artifacts/run_411/model.pkl,Evaluation,scikit-learn,QDA,411
+295,2024-09-17 15:52:15,/artifacts/run_1302/model.pkl,Evaluation,scikit-learn,Gradient Boosting,1302
+303,2024-09-17 16:29:11,/artifacts/run_1187/model.onnx,Evaluation,scikit-learn,Gaussian Mixture,1187
+314,2024-09-17 17:25:02,/artifacts/run_283/model.joblib,Monitoring,scikit-learn,Random Forest,283
+322,2024-09-17 18:13:01,/artifacts/run_254/model.pkl,Development,scikit-learn,CatBoost,254
+326,2024-09-17 18:36:02,/artifacts/run_1291/model.onnx,Evaluation,scikit-learn,Neural Network,1291
+338,2024-09-17 19:47:42,/artifacts/run_442/weights.h5,Development,scikit-learn,Gradient Boosting,442
+345,2024-09-17 20:20:36,/artifacts/run_501/model.pkl,Development,scikit-learn,Decision Tree,501
+360,2024-09-17 21:30:40,/artifacts/run_747/model.joblib,Deployment,scikit-learn,LightGBM,747
+361,2024-09-17 21:32:52,/artifacts/run_1376/weights.h5,Monitoring,scikit-learn,Neural Network,1376
+375,2024-09-17 22:54:48,/artifacts/run_304/model.joblib,Monitoring,scikit-learn,K-Nearest Neighbors,304
+385,2024-09-17 23:47:19,/artifacts/run_1365/weights.h5,Development,scikit-learn,XGBoost,1365
+390,2024-09-18 00:16:33,/artifacts/run_367/model.pkl,Evaluation,scikit-learn,LightGBM,367
+400,2024-09-18 01:22:25,/artifacts/run_795/model.onnx,Deployment,scikit-learn,Gradient Boosting,795
+410,2024-09-18 02:29:16,/artifacts/run_233/weights.h5,Deployment,scikit-learn,Naive Bayes,233
+421,2024-09-18 03:21:59,/artifacts/run_1498/model.joblib,Development,scikit-learn,Gradient Boosting,1498
+425,2024-09-18 03:37:14,/artifacts/run_1038/model.onnx,Development,scikit-learn,DBSCAN,1038
+436,2024-09-18 04:30:14,/artifacts/run_1181/model.onnx,Evaluation,scikit-learn,XGBoost,1181
+447,2024-09-18 05:43:34,/artifacts/run_405/model.onnx,Monitoring,scikit-learn,KMeans,405
+459,2024-09-18 06:52:09,/artifacts/run_1409/weights.h5,Monitoring,scikit-learn,LDA,1409
+466,2024-09-18 07:33:07,/artifacts/run_745/weights.h5,Development,scikit-learn,LightGBM,745
+477,2024-09-18 08:09:39,/artifacts/run_718/model.pkl,Monitoring,scikit-learn,XGBoost,718
+478,2024-09-18 08:16:40,/artifacts/run_1118/model.pkl,Development,scikit-learn,QDA,1118
+492,2024-09-18 09:43:19,/artifacts/run_20/model.pkl,Evaluation,scikit-learn,Gradient Boosting,20
+497,2024-09-18 10:09:34,/artifacts/run_161/model.onnx,Development,scikit-learn,LDA,161
+506,2024-09-18 10:52:54,/artifacts/run_338/model.pkl,Development,scikit-learn,Decision Tree,338
+517,2024-09-18 11:53:50,/artifacts/run_78/weights.h5,Development,scikit-learn,Naive Bayes,78
+526,2024-09-18 12:36:50,/artifacts/run_1081/weights.h5,Deployment,scikit-learn,Support Vector Machine,1081
+536,2024-09-18 13:27:51,/artifacts/run_197/model.onnx,Monitoring,scikit-learn,DBSCAN,197
+541,2024-09-18 14:01:36,/artifacts/run_1454/model.joblib,Development,scikit-learn,QDA,1454
+553,2024-09-18 15:20:24,/artifacts/run_170/model.pkl,Development,scikit-learn,KMeans,170
+559,2024-09-18 15:38:25,/artifacts/run_144/weights.h5,Deployment,scikit-learn,Random Forest,144
+574,2024-09-18 16:50:49,/artifacts/run_521/model.joblib,Evaluation,scikit-learn,Neural Network,521
+577,2024-09-18 17:03:32,/artifacts/run_1004/model.pkl,Development,scikit-learn,Support Vector Machine,1004
+587,2024-09-18 17:55:09,/artifacts/run_361/model.pkl,Monitoring,scikit-learn,LightGBM,361
+596,2024-09-18 18:29:20,/artifacts/run_269/model.joblib,Deployment,scikit-learn,Decision Tree,269
+607,2024-09-18 19:27:06,/artifacts/run_45/model.pkl,Development,scikit-learn,K-Nearest Neighbors,45
+615,2024-09-18 20:08:54,/artifacts/run_1401/weights.h5,Development,scikit-learn,Gaussian Mixture,1401
+623,2024-09-18 20:46:48,/artifacts/run_356/model.pkl,Deployment,scikit-learn,LightGBM,356
+638,2024-09-18 22:03:34,/artifacts/run_1230/weights.h5,Evaluation,scikit-learn,QDA,1230
+640,2024-09-18 22:17:11,/artifacts/run_293/model.joblib,Deployment,scikit-learn,XGBoost,293
+653,2024-09-18 23:37:17,/artifacts/run_822/weights.h5,Development,scikit-learn,Gaussian Mixture,822
+665,2024-09-19 00:45:07,/artifacts/run_1057/model.pkl,Monitoring,scikit-learn,XGBoost,1057
+667,2024-09-19 00:54:59,/artifacts/run_1055/weights.h5,Development,scikit-learn,Support Vector Machine,1055
+681,2024-09-19 02:11:46,/artifacts/run_1175/model.onnx,Development,scikit-learn,DBSCAN,1175
+691,2024-09-19 03:15:53,/artifacts/run_98/weights.h5,Evaluation,scikit-learn,Gaussian Mixture,98
+701,2024-09-19 04:10:19,/artifacts/run_619/model.pkl,Deployment,scikit-learn,Gradient Boosting,619
+704,2024-09-19 04:35:36,/artifacts/run_195/model.pkl,Development,scikit-learn,CatBoost,195
+720,2024-09-19 05:57:57,/artifacts/run_297/model.onnx,Deployment,scikit-learn,Gaussian Mixture,297
+723,2024-09-19 06:18:43,/artifacts/run_657/model.pkl,Development,scikit-learn,Gaussian Mixture,657
+735,2024-09-19 07:23:26,/artifacts/run_321/model.pkl,Monitoring,scikit-learn,Random Forest,321
+740,2024-09-19 07:52:27,/artifacts/run_423/weights.h5,Monitoring,scikit-learn,QDA,423
+751,2024-09-19 08:48:38,/artifacts/run_1094/weights.h5,Development,scikit-learn,Gradient Boosting,1094
+762,2024-09-19 09:59:13,/artifacts/run_1171/model.onnx,Monitoring,scikit-learn,Gaussian Mixture,1171
+772,2024-09-19 10:55:13,/artifacts/run_4/weights.h5,Deployment,scikit-learn,K-Nearest Neighbors,4
+779,2024-09-19 11:40:51,/artifacts/run_1309/model.pkl,Deployment,scikit-learn,LDA,1309
+788,2024-09-19 12:32:21,/artifacts/run_790/weights.h5,Deployment,scikit-learn,CatBoost,790
+795,2024-09-19 13:11:34,/artifacts/run_550/model.joblib,Deployment,scikit-learn,KMeans,550
+808,2024-09-19 14:18:12,/artifacts/run_388/weights.h5,Development,scikit-learn,Random Forest,388
+812,2024-09-19 14:39:14,/artifacts/run_530/model.pkl,Development,scikit-learn,LDA,530
+822,2024-09-19 15:35:58,/artifacts/run_801/model.onnx,Deployment,scikit-learn,DBSCAN,801
+837,2024-09-19 16:51:44,/artifacts/run_91/model.onnx,Monitoring,scikit-learn,Support Vector Machine,91
+844,2024-09-19 17:22:11,/artifacts/run_1355/model.pkl,Deployment,scikit-learn,Naive Bayes,1355
+849,2024-09-19 17:51:19,/artifacts/run_1191/weights.h5,Development,scikit-learn,QDA,1191
+862,2024-09-19 19:08:38,/artifacts/run_523/weights.h5,Monitoring,scikit-learn,Decision Tree,523
+872,2024-09-19 20:04:49,/artifacts/run_1284/model.pkl,Development,scikit-learn,Naive Bayes,1284
+879,2024-09-19 20:48:12,/artifacts/run_1363/model.onnx,Monitoring,scikit-learn,Gaussian Mixture,1363
+883,2024-09-19 21:09:53,/artifacts/run_1412/model.onnx,Development,scikit-learn,Logistic Regression,1412
+897,2024-09-19 22:12:39,/artifacts/run_10/weights.h5,Monitoring,scikit-learn,LightGBM,10
+905,2024-09-19 22:53:06,/artifacts/run_1016/model.pkl,Monitoring,scikit-learn,XGBoost,1016
+912,2024-09-19 23:31:25,/artifacts/run_479/model.joblib,Deployment,scikit-learn,K-Nearest Neighbors,479
+927,2024-09-20 00:50:39,/artifacts/run_659/model.pkl,Development,scikit-learn,XGBoost,659
+932,2024-09-20 01:18:40,/artifacts/run_1192/weights.h5,Evaluation,scikit-learn,Neural Network,1192
+941,2024-09-20 02:05:19,/artifacts/run_340/model.pkl,Evaluation,scikit-learn,LDA,340
+950,2024-09-20 02:54:27,/artifacts/run_1204/weights.h5,Development,scikit-learn,Gradient Boosting,1204
+955,2024-09-20 03:22:36,/artifacts/run_622/model.onnx,Deployment,scikit-learn,QDA,622
+966,2024-09-20 04:29:39,/artifacts/run_1428/model.pkl,Evaluation,scikit-learn,DBSCAN,1428
+976,2024-09-20 05:39:51,/artifacts/run_1235/weights.h5,Evaluation,scikit-learn,KMeans,1235
+989,2024-09-20 06:49:47,/artifacts/run_221/model.joblib,Monitoring,scikit-learn,DBSCAN,221
+991,2024-09-20 07:00:47,/artifacts/run_672/model.onnx,Development,scikit-learn,QDA,672
+1000,2024-09-20 07:39:04,/artifacts/run_403/model.pkl,Deployment,scikit-learn,Naive Bayes,403

@@ -1,0 +1,18 @@
+-- Listar todos los experimentos en proyectos con estado 'En proceso'
+SELECT
+	E.NOMBRE_EXPERIMENTO,
+	E.OBJETIVO,
+	E.FECHA_CREACION,
+	U.NOMBRE_USUARIO AS LIDER_PROYECTO
+FROM
+	"Experimento" E
+	JOIN "Proyecto" P ON E.ID_PROYECTO = P.ID_PROYECTO
+	LEFT JOIN "ParticipacionEnProyecto" PP ON PP.ID_PROYECTO = P.ID_PROYECTO
+	AND PP.ROL = 'Líder de Proyecto'
+	AND PP.FECHA_BAJA IS NULL
+	LEFT JOIN "Usuario" U ON U.ID_USUARIO = PP.ID_USUARIO
+WHERE
+	P.ESTADO = 'En proceso'
+ORDER BY
+	E.FECHA_CREACION DESC
+LIMIT 10;

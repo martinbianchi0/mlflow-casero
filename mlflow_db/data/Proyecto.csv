@@ -1,0 +1,20 @@
+id_proyecto,nombre_proyecto,descripcion,fecha_creacion,estado
+1,Análisis de Logs,Iniciativa orientada a la mejora de procesos de negocio mediante técnicas de inteligencia artificial.,2024-01-01 10:00:00,Cancelado
+15,Análisis de Sentimiento,Iniciativa orientada a la mejora de procesos de negocio mediante técnicas de inteligencia artificial.,2024-08-19 10:52:30,Cancelado
+11,Análisis de Texto Legal,Proyecto para entrenar un modelo de machine learning enfocado en predicción y optimización.,2024-06-25 12:18:55,En proceso
+2,Clasificación de Imágenes,Prueba de concepto para validar la viabilidad de aplicar deep learning en este dominio.,2024-01-14 15:29:06,Aprobado
+10,Detección de Anomalías,Proyecto para entrenar un modelo de machine learning enfocado en predicción y optimización.,2024-06-02 09:46:51,Suspendido
+9,Detección de Fraude,Implementación de algoritmos de aprendizaje supervisado y no supervisado para generar valor.,2024-05-07 15:00:25,Propuesto
+5,Forecast de Ventas,Implementación de algoritmos de aprendizaje supervisado y no supervisado para generar valor.,2024-03-03 12:27:24,Completado
+6,Generación de Imágenes,Proyecto para entrenar un modelo de machine learning enfocado en predicción y optimización.,2024-03-24 14:26:24,Propuesto
+19,Modelo de Traducción,Proyecto para entrenar un modelo de machine learning enfocado en predicción y optimización.,2024-11-08 09:25:21,Completado
+18,Modelos de Compresión,Iniciativa orientada a la mejora de procesos de negocio mediante técnicas de inteligencia artificial.,2024-10-27 14:11:51,Aprobado
+16,Optimización de Precios,Prueba de concepto para validar la viabilidad de aplicar deep learning en este dominio.,2024-09-14 10:00:58,En revisión
+17,Predicción de Demanda,Desarrollo de un sistema automatizado basado en datos históricos y analítica avanzada.,2024-09-30 09:05:37,En revisión
+7,Predicción de Riesgo Crediticio,Iniciativa orientada a la mejora de procesos de negocio mediante técnicas de inteligencia artificial.,2024-03-30 13:33:20,En proceso
+14,Predicción de Series Temporales,Implementación de algoritmos de aprendizaje supervisado y no supervisado para generar valor.,2024-08-04 10:58:59,Archivado
+4,Recomendador de Noticias,Iniciativa orientada a la mejora de procesos de negocio mediante técnicas de inteligencia artificial.,2024-02-06 11:02:31,En revisión
+3,Recomendador de Productos,Prueba de concepto para validar la viabilidad de aplicar deep learning en este dominio.,2024-01-27 11:25:49,Archivado
+12,Reconocimiento de Voz,Prueba de concepto para validar la viabilidad de aplicar deep learning en este dominio.,2024-07-02 12:00:05,Aprobado
+13,Segmentación de Clientes,Iniciativa orientada a la mejora de procesos de negocio mediante técnicas de inteligencia artificial.,2024-07-27 09:26:22,Completado
+8,Sistema de Chatbot,Prueba de concepto para validar la viabilidad de aplicar deep learning en este dominio.,2024-04-10 15:22:43,Suspendido

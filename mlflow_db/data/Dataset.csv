@@ -1,0 +1,9 @@
+id_dataset,nombre_dataset,source,descripcion
+1,MovieLens Ratings,GroupLens,User–movie ratings for recommender systems.
+2,IMDB Reviews,IMDB,Movie reviews labeled with sentiment.
+3,Yelp Reviews,Yelp Open Dataset,Restaurant reviews with sentiment labels.
+4,Heart Disease,UCI,Medical records for heart disease prediction.
+5,MNIST Digits,OpenML,Handwritten digits (0–9) for image classification.
+6,CIFAR-100,Kaggle,32x32 color images across 100 classes.
+7,Fashion-MNIST,Fashion-MNIST Site,Images of clothing items (fashion).
+8,Common Crawl Subset,Common Crawl,Web crawl dataset subset for NLP tasks.

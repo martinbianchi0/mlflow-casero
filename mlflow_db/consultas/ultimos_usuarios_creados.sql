@@ -1,0 +1,12 @@
+-- Obtener todos los usuarios creados en el ultimo año
+SELECT
+	NOMBRE_USUARIO,
+	EMAIL,
+	FECHA_CREACION
+FROM
+	"Usuario"
+WHERE
+	FECHA_CREACION >= NOW() - INTERVAL '365 days'
+ORDER BY
+	FECHA_CREACION DESC
+LIMIT 10;

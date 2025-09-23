@@ -1,0 +1,31 @@
+version_dataset,id_dataset,preprocesamiento,seed_split,estrategia_split,pct_train,pct_val,pct_test,path
+1,1,"{""tokenizer"": ""byte-pair"", ""max_len"": 512}",19,random,70,14,16.00,/data/dataset_1/v1
+2,1,"{""pca"": 50, ""whiten"": true}",78,random,67,14,19.00,/data/dataset_1/v2
+3,1,"{""encode"": ""one-hot"", ""drop_cols"": [""id""]}",66,random,70,13,17.00,/data/dataset_1/v3
+1,2,"{""pca"": 50, ""whiten"": true}",24,random,70,14,16.00,/data/dataset_2/v1
+2,2,"{""augment"": [""flip"", ""rotation""], ""normalize"": true}",35,random,71,16,13.00,/data/dataset_2/v2
+3,2,"{""fillna"": 0, ""scale"": ""minmax""}",92,stratified,69,17,14.00,/data/dataset_2/v3
+4,2,"{""tokenizer"": ""byte-pair"", ""max_len"": 512}",63,stratified,71,15,14.00,/data/dataset_2/v4
+1,3,"{""augment"": [""flip"", ""rotation""], ""normalize"": true}",43,random,73,15,12.00,/data/dataset_3/v1
+2,3,"{""text_clean"": [""lowercase"", ""remove_stopwords""], ""vectorizer"": ""tfidf""}",27,stratified,68,15,17.00,/data/dataset_3/v2
+3,3,"{""standardize"": true, ""drop_cols"": [""timestamp""]}",58,random,67,13,20.00,/data/dataset_3/v3
+4,3,"{""augment"": [""flip"", ""rotation""], ""normalize"": true}",76,random,68,16,16.00,/data/dataset_3/v4
+1,4,"{""impute"": ""mean"", ""scale"": ""standard""}",93,stratified,69,15,16.00,/data/dataset_4/v1
+2,4,"{""text_clean"": [""lowercase"", ""remove_stopwords""], ""vectorizer"": ""tfidf""}",60,stratified,70,14,16.00,/data/dataset_4/v2
+3,4,"{""impute"": ""mean"", ""scale"": ""standard""}",92,random,73,15,12.00,/data/dataset_4/v3
+4,4,"{""standardize"": true, ""drop_cols"": [""timestamp""]}",97,random,69,15,16.00,/data/dataset_4/v4
+1,5,"{""impute"": ""median"", ""normalize"": true}",18,stratified,70,15,15.00,/data/dataset_5/v1
+2,5,"{""resize"": [224,224], ""normalize"": true}",48,random,73,15,12.00,/data/dataset_5/v2
+3,5,"{""fillna"": 0, ""scale"": ""minmax""}",28,random,71,16,13.00,/data/dataset_5/v3
+4,5,"{""impute"": ""median"", ""normalize"": true}",40,random,71,15,14.00,/data/dataset_5/v4
+1,6,"{""fillna"": 0, ""scale"": ""minmax""}",18,random,72,14,14.00,/data/dataset_6/v1
+2,6,"{""standardize"": true, ""drop_cols"": [""timestamp""]}",29,stratified,70,15,15.00,/data/dataset_6/v2
+3,6,"{""tokenizer"": ""byte-pair"", ""max_len"": 512}",87,random,71,16,13.00,/data/dataset_6/v3
+4,6,"{""pca"": 50, ""whiten"": true}",86,stratified,71,15,14.00,/data/dataset_6/v4
+1,7,"{""resize"": [224,224], ""normalize"": true}",92,random,73,14,13.00,/data/dataset_7/v1
+2,7,"{""impute"": ""mean"", ""scale"": ""standard""}",14,random,67,13,20.00,/data/dataset_7/v2
+3,7,"{""encode"": ""one-hot"", ""drop_cols"": [""id""]}",48,random,66,16,18.00,/data/dataset_7/v3
+4,7,"{""resize"": [224,224], ""normalize"": true}",92,random,69,15,16.00,/data/dataset_7/v4
+1,8,"{""encode"": ""one-hot"", ""drop_cols"": [""id""]}",58,random,69,12,19.00,/data/dataset_8/v1
+2,8,"{""impute"": ""median"", ""normalize"": true}",9,stratified,69,15,16.00,/data/dataset_8/v2
+3,8,"{""text_clean"": [""lowercase"", ""remove_stopwords""], ""vectorizer"": ""tfidf""}",34,stratified,67,13,20.00,/data/dataset_8/v3

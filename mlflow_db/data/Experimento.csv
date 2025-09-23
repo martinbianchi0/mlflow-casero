@@ -1,0 +1,101 @@
+id_experimento,nombre_experimento,id_proyecto,objetivo,notas,fecha_creacion,seed
+1,predicción-de-series-tem-exp-01,14,Prueba de baseline para Predicción de Series Temporales,,2025-01-01 11:46:00,69
+2,predicción-de-demanda-exp-01,17,Comparación de modelos para Predicción de Demanda,,2025-01-03 15:02:42,71
+3,segmentación-de-clientes-exp-01,13,Experimento exploratorio sobre Segmentación de Clientes,"Épocas=51, batch=82. Búsqueda en rejilla de LR y regularización.",2025-01-06 12:01:06,83
+4,análisis-de-texto-legal-exp-01,11,Experimento exploratorio sobre Análisis de Texto Legal,"Épocas=49, batch=85. Se aplicó normalización y one-hot.",2025-01-08 10:53:42,29
+5,análisis-de-logs-exp-01,1,Evaluación de features y preprocesamiento en Análisis de Logs,,2025-01-10 13:04:10,14
+6,clasificación-de-imágene-exp-01,2,Evaluación de features y preprocesamiento en Clasificación de Imágenes,,2025-01-13 15:21:15,98
+7,forecast-de-ventas-exp-01,5,Prueba de baseline para Forecast de Ventas,"Épocas=38, batch=51. Se aplicó normalización y one-hot.",2025-01-15 11:13:12,88
+8,predicción-de-riesgo-cre-exp-01,7,Prueba de baseline para Predicción de Riesgo Crediticio,,2025-01-17 11:16:27,62
+9,análisis-de-sentimiento-exp-01,15,Ajuste de hiperparámetros para Análisis de Sentimiento,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-01-20 10:54:27,78
+10,optimización-de-precios-exp-01,16,Evaluación de features y preprocesamiento en Optimización de Precios,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-01-22 12:27:20,52
+11,reconocimiento-de-voz-exp-01,12,Validación cruzada estratificada en Reconocimiento de Voz,"Épocas=44, batch=81. Validación con 5 folds.",2025-01-24 09:02:41,10
+12,modelo-de-traducción-exp-01,19,Evaluación de features y preprocesamiento en Modelo de Traducción,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-01-27 10:47:10,31
+13,detección-de-fraude-exp-01,9,Comparación de modelos para Detección de Fraude,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-01-29 10:35:00,60
+14,sistema-de-chatbot-exp-01,8,Prueba de baseline para Sistema de Chatbot,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-01-30 12:59:53,62
+15,modelos-de-compresión-exp-01,18,Experimento exploratorio sobre Modelos de Compresión,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-01-31 15:03:50,44
+16,recomendador-de-noticias-exp-01,4,Experimento exploratorio sobre Recomendador de Noticias,,2025-02-03 16:23:33,4
+17,recomendador-de-producto-exp-01,3,Ajuste de hiperparámetros para Recomendador de Productos,,2025-02-06 10:19:45,49
+18,generación-de-imágenes-exp-01,6,Evaluación de features y preprocesamiento en Generación de Imágenes,"Épocas=14, batch=99. Se aplicó normalización y one-hot.",2025-02-10 15:21:58,10
+19,detección-de-anomalías-exp-01,10,Validación cruzada estratificada en Detección de Anomalías,,2025-02-13 12:23:48,14
+20,recomendador-de-producto-exp-02,3,Experimento exploratorio sobre Recomendador de Productos,,2025-02-14 09:45:47,53
+21,análisis-de-texto-legal-exp-02,11,Experimento exploratorio sobre Análisis de Texto Legal,"Épocas=37, batch=99. Validación con 5 folds.",2025-02-17 13:48:34,31
+22,forecast-de-ventas-exp-02,5,Prueba de baseline para Forecast de Ventas,,2025-02-19 14:16:52,14
+23,generación-de-imágenes-exp-02,6,Ajuste de hiperparámetros para Generación de Imágenes,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-02-20 12:28:35,95
+24,modelo-de-traducción-exp-02,19,Experimento exploratorio sobre Modelo de Traducción,,2025-02-21 12:35:52,77
+25,análisis-de-sentimiento-exp-02,15,Experimento exploratorio sobre Análisis de Sentimiento,,2025-02-24 12:08:34,67
+26,predicción-de-demanda-exp-02,17,Evaluación de features y preprocesamiento en Predicción de Demanda,"Épocas=18, batch=48. Métricas registradas en MLflow.",2025-02-25 12:59:02,62
+27,análisis-de-logs-exp-02,1,Prueba de baseline para Análisis de Logs,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-02-27 13:59:01,97
+28,optimización-de-precios-exp-02,16,Experimento exploratorio sobre Optimización de Precios,"Épocas=36, batch=27. Métricas registradas en MLflow.",2025-03-03 12:52:24,17
+29,reconocimiento-de-voz-exp-02,12,Experimento exploratorio sobre Reconocimiento de Voz,,2025-03-04 12:48:38,33
+30,predicción-de-riesgo-cre-exp-02,7,Evaluación de features y preprocesamiento en Predicción de Riesgo Crediticio,,2025-03-05 15:39:02,3
+31,clasificación-de-imágene-exp-02,2,Comparación de modelos para Clasificación de Imágenes,"Épocas=23, batch=40. Early stopping activado.",2025-03-06 09:16:31,84
+32,predicción-de-series-tem-exp-02,14,Evaluación de features y preprocesamiento en Predicción de Series Temporales,,2025-03-06 11:24:22,8
+33,modelos-de-compresión-exp-02,18,Ajuste de hiperparámetros para Modelos de Compresión,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-03-10 11:51:26,50
+34,recomendador-de-noticias-exp-02,4,Ajuste de hiperparámetros para Recomendador de Noticias,,2025-03-12 14:45:38,95
+35,detección-de-anomalías-exp-02,10,Evaluación de features y preprocesamiento en Detección de Anomalías,"Épocas=16, batch=21. Búsqueda en rejilla de LR y regularización.",2025-03-13 10:20:47,95
+36,sistema-de-chatbot-exp-02,8,Validación cruzada estratificada en Sistema de Chatbot,"Épocas=22, batch=55. Se aplicó normalización y one-hot.",2025-03-17 11:31:10,45
+37,segmentación-de-clientes-exp-02,13,Prueba de baseline para Segmentación de Clientes,,2025-03-20 13:58:22,4
+38,detección-de-fraude-exp-02,9,Validación cruzada estratificada en Detección de Fraude,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-03-21 09:54:05,48
+39,clasificación-de-imágene-exp-03,2,Ajuste de hiperparámetros para Clasificación de Imágenes,,2025-03-24 14:56:35,48
+40,análisis-de-texto-legal-exp-03,11,Experimento exploratorio sobre Análisis de Texto Legal,"Épocas=11, batch=89. Métricas registradas en MLflow.",2025-03-25 09:49:36,68
+41,predicción-de-series-tem-exp-03,14,Evaluación de features y preprocesamiento en Predicción de Series Temporales,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-03-26 13:00:01,29
+42,predicción-de-demanda-exp-03,17,Experimento exploratorio sobre Predicción de Demanda,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-03-26 13:55:41,89
+43,forecast-de-ventas-exp-03,5,Prueba de baseline para Forecast de Ventas,"Épocas=41, batch=74. Validación con 5 folds.",2025-03-28 13:35:33,83
+44,optimización-de-precios-exp-03,16,Validación cruzada estratificada en Optimización de Precios,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-03-31 16:58:14,95
+45,segmentación-de-clientes-exp-03,13,Evaluación de features y preprocesamiento en Segmentación de Clientes,,2025-04-03 16:23:11,1
+46,detección-de-anomalías-exp-03,10,Experimento exploratorio sobre Detección de Anomalías,"Épocas=47, batch=95. Búsqueda en rejilla de LR y regularización.",2025-04-04 09:37:57,51
+47,detección-de-fraude-exp-03,9,Validación cruzada estratificada en Detección de Fraude,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-04-07 13:05:02,25
+48,análisis-de-logs-exp-03,1,Prueba de baseline para Análisis de Logs,,2025-04-10 09:26:05,32
+49,predicción-de-riesgo-cre-exp-03,7,Evaluación de features y preprocesamiento en Predicción de Riesgo Crediticio,"Épocas=34, batch=63. Early stopping activado.",2025-04-14 16:02:29,4
+50,sistema-de-chatbot-exp-03,8,Evaluación de features y preprocesamiento en Sistema de Chatbot,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-04-16 13:22:16,6
+51,generación-de-imágenes-exp-03,6,Validación cruzada estratificada en Generación de Imágenes,,2025-04-17 09:42:34,74
+52,análisis-de-sentimiento-exp-03,15,Prueba de baseline para Análisis de Sentimiento,,2025-04-21 11:14:32,41
+53,recomendador-de-producto-exp-03,3,Prueba de baseline para Recomendador de Productos,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-04-22 10:10:30,91
+54,modelo-de-traducción-exp-03,19,Experimento exploratorio sobre Modelo de Traducción,,2025-04-24 11:04:30,16
+55,modelos-de-compresión-exp-03,18,Ajuste de hiperparámetros para Modelos de Compresión,,2025-04-28 13:56:33,42
+56,recomendador-de-noticias-exp-03,4,Prueba de baseline para Recomendador de Noticias,,2025-04-29 10:17:01,53
+57,reconocimiento-de-voz-exp-03,12,Ajuste de hiperparámetros para Reconocimiento de Voz,,2025-05-01 12:13:09,62
+58,segmentación-de-clientes-exp-04,13,Evaluación de features y preprocesamiento en Segmentación de Clientes,"Épocas=45, batch=44. Early stopping activado.",2025-05-05 12:35:12,47
+59,detección-de-anomalías-exp-04,10,Ajuste de hiperparámetros para Detección de Anomalías,,2025-05-07 12:27:04,29
+60,análisis-de-texto-legal-exp-04,11,Experimento exploratorio sobre Análisis de Texto Legal,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-05-09 12:24:35,85
+61,detección-de-fraude-exp-04,9,Comparación de modelos para Detección de Fraude,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-05-12 13:18:39,58
+62,análisis-de-sentimiento-exp-04,15,Prueba de baseline para Análisis de Sentimiento,,2025-05-15 10:00:55,49
+63,análisis-de-logs-exp-04,1,Ajuste de hiperparámetros para Análisis de Logs,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-05-19 16:51:55,71
+64,optimización-de-precios-exp-04,16,Validación cruzada estratificada en Optimización de Precios,,2025-05-22 11:59:51,27
+65,recomendador-de-producto-exp-04,3,Prueba de baseline para Recomendador de Productos,,2025-05-26 12:51:40,74
+66,reconocimiento-de-voz-exp-04,12,Validación cruzada estratificada en Reconocimiento de Voz,"Épocas=19, batch=39. Early stopping activado.",2025-05-29 13:46:46,50
+67,modelo-de-traducción-exp-04,19,Experimento exploratorio sobre Modelo de Traducción,,2025-06-02 09:03:28,70
+68,sistema-de-chatbot-exp-04,8,Comparación de modelos para Sistema de Chatbot,,2025-06-04 10:09:59,17
+69,recomendador-de-noticias-exp-04,4,Experimento exploratorio sobre Recomendador de Noticias,,2025-06-04 16:29:09,48
+70,clasificación-de-imágene-exp-04,2,Validación cruzada estratificada en Clasificación de Imágenes,"Épocas=23, batch=22. Se aplicó normalización y one-hot.",2025-06-06 09:16:13,76
+71,predicción-de-demanda-exp-04,17,Prueba de baseline para Predicción de Demanda,,2025-06-09 12:09:24,68
+72,predicción-de-riesgo-cre-exp-04,7,Validación cruzada estratificada en Predicción de Riesgo Crediticio,,2025-06-12 15:21:56,51
+73,modelos-de-compresión-exp-04,18,Ajuste de hiperparámetros para Modelos de Compresión,"Épocas=38, batch=80. Búsqueda en rejilla de LR y regularización.",2025-06-16 16:15:34,2
+74,generación-de-imágenes-exp-04,6,Prueba de baseline para Generación de Imágenes,,2025-06-18 15:49:35,22
+75,predicción-de-series-tem-exp-04,14,Comparación de modelos para Predicción de Series Temporales,"Épocas=53, batch=59. Métricas registradas en MLflow.",2025-06-19 14:57:00,27
+76,forecast-de-ventas-exp-04,5,Experimento exploratorio sobre Forecast de Ventas,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-06-20 12:25:26,75
+77,modelo-de-traducción-exp-05,19,Ajuste de hiperparámetros para Modelo de Traducción,"Épocas=44, batch=95. Métricas registradas en MLflow.",2025-06-23 11:25:29,65
+78,modelos-de-compresión-exp-05,18,Comparación de modelos para Modelos de Compresión,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-06-25 09:03:10,26
+79,recomendador-de-noticias-exp-05,4,Comparación de modelos para Recomendador de Noticias,"Épocas=34, batch=98. Se aplicó normalización y one-hot.",2025-06-27 15:34:52,85
+80,reconocimiento-de-voz-exp-05,12,Prueba de baseline para Reconocimiento de Voz,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-06-30 15:52:56,32
+81,clasificación-de-imágene-exp-05,2,Validación cruzada estratificada en Clasificación de Imágenes,"Épocas=12, batch=24. Se aplicó normalización y one-hot.",2025-07-02 11:03:18,3
+82,análisis-de-texto-legal-exp-05,11,Comparación de modelos para Análisis de Texto Legal,,2025-07-04 16:12:22,6
+83,predicción-de-series-tem-exp-05,14,Prueba de baseline para Predicción de Series Temporales,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-07-07 15:44:11,77
+84,predicción-de-demanda-exp-05,17,Experimento exploratorio sobre Predicción de Demanda,,2025-07-09 15:20:15,92
+85,forecast-de-ventas-exp-05,5,Validación cruzada estratificada en Forecast de Ventas,,2025-07-11 13:17:47,86
+86,optimización-de-precios-exp-05,16,Validación cruzada estratificada en Optimización de Precios,"Épocas=18, batch=21. Búsqueda en rejilla de LR y regularización.",2025-07-14 16:51:38,74
+87,segmentación-de-clientes-exp-05,13,Comparación de modelos para Segmentación de Clientes,"Épocas=12, batch=94. Se aplicó normalización y one-hot.",2025-07-15 09:44:48,54
+88,detección-de-anomalías-exp-05,10,Evaluación de features y preprocesamiento en Detección de Anomalías,,2025-07-17 11:05:19,5
+89,detección-de-fraude-exp-05,9,Ajuste de hiperparámetros para Detección de Fraude,"Épocas=31, batch=50. Métricas registradas en MLflow.",2025-07-21 11:48:17,32
+90,análisis-de-logs-exp-05,1,Evaluación de features y preprocesamiento en Análisis de Logs,"Épocas=12, batch=84. Búsqueda en rejilla de LR y regularización.",2025-07-23 11:32:28,15
+91,predicción-de-riesgo-cre-exp-05,7,Ajuste de hiperparámetros para Predicción de Riesgo Crediticio,"Épocas=35, batch=69. Early stopping activado.",2025-07-25 09:00:02,83
+92,sistema-de-chatbot-exp-05,8,Validación cruzada estratificada en Sistema de Chatbot,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-07-28 11:42:26,20
+93,generación-de-imágenes-exp-05,6,Comparación de modelos para Generación de Imágenes,,2025-07-30 12:22:29,75
+94,análisis-de-sentimiento-exp-05,15,Experimento exploratorio sobre Análisis de Sentimiento,"Épocas=22, batch=78. Búsqueda en rejilla de LR y regularización.",2025-07-31 10:54:33,61
+95,recomendador-de-producto-exp-05,3,Experimento exploratorio sobre Recomendador de Productos,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-08-04 15:51:04,43
+96,análisis-de-logs-exp-06,1,Validación cruzada estratificada en Análisis de Logs,"Épocas=42, batch=94. Se aplicó normalización y one-hot.",2025-08-05 10:58:07,95
+97,segmentación-de-clientes-exp-06,13,Evaluación de features y preprocesamiento en Segmentación de Clientes,,2025-08-07 14:23:01,50
+98,clasificación-de-imágene-exp-06,2,Evaluación de features y preprocesamiento en Clasificación de Imágenes,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-08-11 12:52:50,71
+99,sistema-de-chatbot-exp-06,8,Evaluación de features y preprocesamiento en Sistema de Chatbot,"Épocas=25, batch=60. Se aplicó normalización y one-hot.",2025-08-13 13:48:19,29
+100,recomendador-de-producto-exp-06,3,Experimento exploratorio sobre Recomendador de Productos,"Épocas=58, batch=58. Se aplicó normalización y one-hot.",2025-08-14 14:49:09,59

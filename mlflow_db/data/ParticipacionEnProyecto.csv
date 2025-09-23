@@ -1,0 +1,101 @@
+id_proyecto,id_usuario,rol,fecha_alta,fecha_baja
+15,58,Analista,2024-09-07,2025-05-19
+1,79,Analista,2024-02-03,
+18,82,Analista,2024-11-03,2025-07-16
+14,92,Analista,2024-09-27,
+3,42,Analista,2024-03-22,2025-09-07
+16,26,Analista,2024-09-20,
+3,78,Analista,2024-02-16,
+19,87,Analista,2024-11-20,2025-07-20
+17,100,Analista,2024-11-10,2025-06-18
+7,38,Coordinador,2024-05-23,
+5,45,Coordinador,2024-04-19,2025-07-19
+9,77,Coordinador,2024-05-23,
+13,56,Coordinador,2024-08-15,
+16,64,Coordinador,2024-09-28,
+4,35,Coordinador,2024-04-04,
+17,47,Coordinador,2024-10-04,2025-04-14
+16,18,Coordinador,2024-09-21,2025-05-10
+10,98,Coordinador,2024-06-17,2025-02-10
+9,59,Data Scientist,2024-06-05,
+11,94,Data Scientist,2024-07-13,
+17,88,Data Scientist,2024-10-04,2025-10-03
+6,93,Data Scientist,2024-04-28,
+15,72,Data Scientist,2024-09-05,
+4,27,Data Scientist,2024-02-20,2025-05-03
+5,32,Data Scientist,2024-04-03,2025-08-04
+4,83,Data Scientist,2024-02-12,
+14,65,Data Scientist,2024-09-18,
+11,99,Data Scientist,2024-07-07,
+16,48,Desarrollador,2024-10-30,2025-07-11
+3,43,Desarrollador,2024-03-24,2025-08-03
+10,2,Desarrollador,2024-07-09,
+14,60,Desarrollador,2024-09-30,2025-06-04
+1,14,Desarrollador,2024-02-03,2025-07-26
+19,90,Desarrollador,2024-11-22,2025-07-24
+13,1,Desarrollador,2024-07-31,
+8,86,Desarrollador,2024-04-16,2025-08-09
+1,10,Desarrollador,2024-02-02,
+19,17,Gerente,2024-12-08,2025-08-08
+14,73,Gerente,2024-09-21,
+2,31,Gerente,2024-01-15,2025-08-30
+11,41,Gerente,2024-07-30,
+5,52,Gerente,2024-04-17,
+8,66,Gerente,2024-04-12,
+18,4,Gerente,2024-10-31,
+13,63,Gerente,2024-08-30,
+18,23,Gerente,2024-11-16,2025-09-20
+13,85,Ingeniero de Datos,2024-07-30,2025-07-27
+8,20,Ingeniero de Datos,2024-04-26,
+7,34,Ingeniero de Datos,2024-05-24,
+12,11,Ingeniero de Datos,2024-08-05,2025-04-09
+19,46,Ingeniero de Datos,2024-12-28,
+10,16,Ingeniero de Datos,2024-06-16,
+2,55,Ingeniero de Datos,2024-03-03,
+12,9,Ingeniero de Datos,2024-07-23,
+6,51,Ingeniero de Datos,2024-04-15,
+8,28,Líder de Proyecto,2024-05-06,
+4,61,Líder de Proyecto,2024-02-14,2025-07-20
+4,13,Líder de Proyecto,2024-03-04,
+7,69,Líder de Proyecto,2024-05-20,
+11,70,Líder de Proyecto,2024-08-08,
+7,67,Líder de Proyecto,2024-05-07,2025-03-05
+6,53,Líder de Proyecto,2024-04-18,
+2,81,Líder de Proyecto,2024-02-09,
+11,89,Líder de Proyecto,2024-08-02,2025-09-11
+5,7,MLOps,2024-03-27,2025-08-22
+16,62,MLOps,2024-09-25,2025-03-23
+3,44,MLOps,2024-02-15,
+1,5,MLOps,2024-02-04,
+12,68,MLOps,2024-07-31,2025-08-07
+11,96,MLOps,2024-08-17,
+14,36,MLOps,2024-09-03,
+6,57,MLOps,2024-03-31,
+1,19,MLOps,2024-02-28,
+12,39,QA,2024-07-19,2025-06-12
+18,22,QA,2024-11-14,2025-08-06
+15,71,QA,2024-08-27,
+17,76,QA,2024-11-15,
+10,97,QA,2024-07-01,
+1,29,QA,2024-02-16,
+12,33,QA,2024-08-24,
+9,84,QA,2024-06-11,2025-07-14
+7,50,QA,2024-04-14,2025-11-30
+17,8,Stakeholder,2024-11-16,
+2,12,Stakeholder,2024-02-11,2025-06-30
+19,74,Stakeholder,2024-12-26,2025-07-10
+2,49,Stakeholder,2024-01-28,
+13,75,Stakeholder,2024-08-20,2025-07-03
+8,54,Stakeholder,2024-05-08,
+9,3,Stakeholder,2024-06-13,
+10,91,Stakeholder,2024-06-09,2025-06-23
+3,37,Stakeholder,2024-02-09,
+6,95,Usuario,2024-04-08,
+10,30,Usuario,2024-07-14,2025-03-25
+6,21,Usuario,2024-05-23,2025-10-10
+18,80,Usuario,2024-11-23,
+9,25,Usuario,2024-05-17,2025-08-14
+15,24,Usuario,2024-09-26,
+5,40,Usuario,2024-03-09,
+15,6,Usuario,2024-08-21,2025-08-05
+12,15,Usuario,2024-07-30,
